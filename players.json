@@ -2,99 +2,94 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 18,
+  "players": 17,
   "maxPlayers": 146,
   "list": [
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 19117
+      "duration": 19769
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 18936
+      "duration": 19588
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 18020
+      "duration": 18673
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 17710
+      "duration": 18362
     },
     {
       "name": "John Black",
       "score": 0,
-      "duration": 16339
+      "duration": 16991
     },
     {
       "name": "Kevin Trouille [AFFRANCHIS]",
       "score": 0,
-      "duration": 14942
+      "duration": 15594
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 13157
+      "duration": 13810
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 12425
+      "duration": 13078
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 12182
+      "duration": 12835
     },
     {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 6192
+      "duration": 6845
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 5945
+      "duration": 6597
     },
     {
       "name": "Mahdi Teller [Osiris]",
       "score": 0,
-      "duration": 5079
+      "duration": 5731
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 4049
+      "duration": 4701
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 3732
+      "duration": 4384
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 2039
-    },
-    {
-      "name": "Zven Voskov",
-      "score": 0,
-      "duration": 1198
+      "duration": 2691
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 883
+      "duration": 1535
     },
     {
       "name": "Administrateur",
       "score": 0,
-      "duration": 831
+      "duration": 1484
     }
   ],
-  "updatedAt": "2026-10-20T23:23:15.083Z"
+  "updatedAt": "2026-10-20T23:34:09.094Z"
 }
