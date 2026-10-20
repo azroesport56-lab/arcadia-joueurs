@@ -2,94 +2,69 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 17,
+  "players": 12,
   "maxPlayers": 146,
   "list": [
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 19769
+      "duration": 21239
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 19588
+      "duration": 21058
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 18673
-    },
-    {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 18362
-    },
-    {
-      "name": "John Black",
-      "score": 0,
-      "duration": 16991
+      "duration": 20142
     },
     {
       "name": "Kevin Trouille [AFFRANCHIS]",
       "score": 0,
-      "duration": 15594
+      "duration": 17064
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 13810
+      "duration": 15280
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 13078
-    },
-    {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 12835
+      "duration": 14548
     },
     {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 6845
-    },
-    {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 6597
-    },
-    {
-      "name": "Mahdi Teller [Osiris]",
-      "score": 0,
-      "duration": 5731
+      "duration": 8314
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 4701
-    },
-    {
-      "name": "Alphonse Martel [Arma RP]",
-      "score": 0,
-      "duration": 4384
+      "duration": 6171
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 2691
+      "duration": 4161
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 1535
+      "duration": 3005
     },
     {
       "name": "Administrateur",
       "score": 0,
-      "duration": 1484
+      "duration": 2953
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 1208
     }
   ],
-  "updatedAt": "2026-10-20T23:34:09.094Z"
+  "updatedAt": "2026-10-20T23:58:38.863Z"
 }
