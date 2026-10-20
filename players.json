@@ -1,0 +1,100 @@
+{
+  "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
+  "map": "arcadia3",
+  "mission": "Arcadia",
+  "players": 18,
+  "maxPlayers": 146,
+  "list": [
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 19117
+    },
+    {
+      "name": "Jordy Larue",
+      "score": 0,
+      "duration": 18936
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 18020
+    },
+    {
+      "name": "Julien Bronneau",
+      "score": 0,
+      "duration": 17710
+    },
+    {
+      "name": "John Black",
+      "score": 0,
+      "duration": 16339
+    },
+    {
+      "name": "Kevin Trouille [AFFRANCHIS]",
+      "score": 0,
+      "duration": 14942
+    },
+    {
+      "name": "Kevin Becker",
+      "score": 0,
+      "duration": 13157
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 12425
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 12182
+    },
+    {
+      "name": "Pops Tantot",
+      "score": 0,
+      "duration": 6192
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 5945
+    },
+    {
+      "name": "Mahdi Teller [Osiris]",
+      "score": 0,
+      "duration": 5079
+    },
+    {
+      "name": "Obito Uchiwa",
+      "score": 0,
+      "duration": 4049
+    },
+    {
+      "name": "Alphonse Martel [Arma RP]",
+      "score": 0,
+      "duration": 3732
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 2039
+    },
+    {
+      "name": "Zven Voskov",
+      "score": 0,
+      "duration": 1198
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 883
+    },
+    {
+      "name": "Administrateur",
+      "score": 0,
+      "duration": 831
+    }
+  ],
+  "updatedAt": "2026-10-20T23:23:15.083Z"
+}

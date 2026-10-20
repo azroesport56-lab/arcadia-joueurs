@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Arcadia — Joueurs en ligne</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap">
+<style>
+  /* Layout: une colonne type "tableau de bord radio", en-tête d'état puis liste triée par temps de jeu */
+  :root {
+    --bg: #eef0ea; --panel: #f9faf6; --fg: #1d2219; --muted: #646b5c; --line: #d3d8cb;
+    --accent: #5a6b2f; --live: #2f8a3c; --bad: #b3402a;
+    --display: "Barlow Condensed", "Arial Narrow", sans-serif;
+    --body: "IBM Plex Sans", system-ui, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141712; --panel: #1c2019; --fg: #e3e7dc; --muted: #959d89; --line: #2d3328; --accent: #a7bd6a; --live: #5ccb6b; --bad: #e0705a; color-scheme: dark; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 var(--body); }
+  .wrap { max-width: 760px; margin: 0 auto; padding-block: 32px 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 20px; }
+  header { display: grid; gap: 6px; }
+  .eyebrow { font: 500 12px var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+  h1 { margin: 0; font: 700 clamp(30px, 6vw, 44px)/1.05 var(--display); letter-spacing: .01em; text-wrap: balance; }
+  .status { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; font: 13px var(--mono); color: var(--muted); }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--live); display: inline-block; margin-right: 6px; box-shadow: 0 0 0 0 var(--live); animation: pulse 2s infinite; }
+  .status.err .dot { background: var(--bad); animation: none; }
+  @keyframes pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--live) 60%, transparent); } 100% { box-shadow: 0 0 0 8px transparent; } }
+  @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+  .count { font: 700 56px/1 var(--display); font-variant-numeric: tabular-nums; }
+  .count small { font-size: 24px; color: var(--muted); }
+  .bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .bar > i { display: block; height: 100%; background: var(--accent); transition: width .4s; }
+  .tools { display: flex; gap: 10px; flex-wrap: wrap; }
+  input { flex: 1; min-width: 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--fg); font: inherit; }
+  button { padding: 10px 14px; border: 1px solid var(--accent); border-radius: 6px; background: transparent; color: var(--accent); font: 500 14px var(--body); cursor: pointer; }
+  button:hover { background: color-mix(in srgb, var(--accent) 12%, transparent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .list { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .row { display: grid; grid-template-columns: 2.2em 1fr auto; gap: 12px; align-items: center; padding: 10px 14px; border-top: 1px solid var(--line); }
+  .row:first-child { border-top: 0; }
+  .row .n { font: 12px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .row .name { min-width: 0; overflow-wrap: anywhere; font-weight: 500; }
+  .row .t { font: 13px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .empty { padding: 28px 14px; text-align: center; color: var(--muted); }
+  footer { font-size: 12px; color: var(--muted); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <span class="eyebrow">Arma 3 · 141.94.98.217:2402</span>
+    <h1 id="name">[FR] Arcadia</h1>
+    <div class="status" id="status"><span><span class="dot"></span><span id="state">Connexion…</span></span><span id="mission"></span></div>
+  </header>
+
+  <div>
+    <div class="count"><span id="n">–</span><small> / <span id="max">–</span> joueurs</small></div>
+    <div class="bar"><i id="fill" style="width:0"></i></div>
+  </div>
+
+  <div class="tools">
+    <input id="q" type="search" placeholder="Chercher un joueur…" aria-label="Chercher un joueur">
+    <button id="refresh" type="button">Actualiser</button>
+  </div>
+
+  <div class="list" id="list"><div class="empty">Chargement de la liste…</div></div>
+
+  <footer>Mise à jour automatique toutes les 5 minutes, trié par temps de connexion. Source : requête directe au serveur (Steam A2S). <a href="https://www.battlemetrics.com/servers/arma3/39590987" target="_blank" rel="noopener">Voir sur BattleMetrics</a></footer>
+</div>
+<script>
+  const $ = (id) => document.getElementById(id);
+  let data = null;
+
+  function fmt(sec) {
+    const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60);
+    return h ? `${h} h ${String(m).padStart(2, '0')}` : `${m} min`;
+  }
+
+  function render() {
+    const list = $('list');
+    if (!data) return;
+    const q = $('q').value.trim().toLowerCase();
+    const rows = data.list.filter(p => p.name.toLowerCase().includes(q));
+    list.replaceChildren();
+    if (!rows.length) {
+      const e = document.createElement('div');
+      e.className = 'empty';
+      e.textContent = q ? 'Aucun joueur ne correspond.' : 'Personne en ligne pour le moment.';
+      list.append(e);
+      return;
+    }
+    rows.forEach((p, i) => {
+      const r = document.createElement('div'); r.className = 'row';
+      const n = document.createElement('span'); n.className = 'n'; n.textContent = String(i + 1).padStart(2, '0');
+      const name = document.createElement('span'); name.className = 'name'; name.textContent = p.name;
+      const t = document.createElement('span'); t.className = 't'; t.textContent = fmt(p.duration);
+      r.append(n, name, t); list.append(r);
+    });
+  }
+
+  async function load() {
+    try {
+      const res = await fetch('players.json?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error(res.statusText);
+      const json = await res.json();
+      if (json.error) throw new Error(json.error);
+      data = json;
+      $('status').classList.remove('err');
+      $('name').textContent = json.name.split(' - ')[0];
+      $('mission').textContent = [json.mission, json.map].filter(Boolean).join(' · ');
+      $('n').textContent = json.players;
+      $('max').textContent = json.maxPlayers;
+      $('fill').style.width = Math.min(100, json.players / json.maxPlayers * 100) + '%';
+      $('state').textContent = 'En ligne · relevé à ' + new Date(json.updatedAt).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+      render();
+    } catch (e) {
+      $('status').classList.add('err');
+      $('state').textContent = 'Hors ligne ou injoignable : ' + e.message;
+    }
+  }
+
+  $('q').addEventListener('input', render);
+  $('refresh').addEventListener('click', load);
+  load();
+  setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>
