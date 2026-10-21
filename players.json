@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-10-21T09:30:59.595Z"
+  "list": [
+    {
+      "name": "Hugo Lerat",
+      "score": 0,
+      "duration": 810
+    }
+  ],
+  "updatedAt": "2026-10-21T10:06:45.092Z"
 }
