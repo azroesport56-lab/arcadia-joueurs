@@ -2,69 +2,129 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 12,
+  "players": 24,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Gabriel Attan",
       "score": 0,
-      "duration": 1730
+      "duration": 4211
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 1723
+      "duration": 4204
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 1562
+      "duration": 4043
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 1264
+      "duration": 3745
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 1226
+      "duration": 3708
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 1090
+      "duration": 3571
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 933
+      "duration": 3415
     },
     {
       "name": "Pops Tantot",
-      "score": 0,
-      "duration": 634
+      "score": -1,
+      "duration": 3115
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 283
+      "duration": 2764
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 225
+      "duration": 2707
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 208
+      "duration": 2690
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 165
+      "duration": 2646
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 2350
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 2316
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 2222
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 2018
+    },
+    {
+      "name": "Momo Larue",
+      "score": 0,
+      "duration": 1963
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 1791
+    },
+    {
+      "name": "Obito Uchiwa",
+      "score": 0,
+      "duration": 1791
+    },
+    {
+      "name": "Zedkensky Drow",
+      "score": 0,
+      "duration": 1669
+    },
+    {
+      "name": "Jordy Larue",
+      "score": 0,
+      "duration": 1297
+    },
+    {
+      "name": "Samuel Cérébos",
+      "score": 0,
+      "duration": 1048
+    },
+    {
+      "name": "Kevin Becker",
+      "score": 0,
+      "duration": 861
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 381
     }
   ],
-  "updatedAt": "2026-10-21T18:31:51.408Z"
+  "updatedAt": "2026-10-21T19:13:12.873Z"
 }
