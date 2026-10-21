@@ -2,124 +2,94 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 23,
+  "players": 17,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 11213
-    },
-    {
-      "name": "Alex Petrovich",
-      "score": 0,
-      "duration": 10741
-    },
-    {
-      "name": "Morta SouB",
-      "score": 0,
-      "duration": 9934
-    },
-    {
-      "name": "Gino Brigante",
-      "score": 0,
-      "duration": 9876
-    },
-    {
-      "name": "John Swift",
-      "score": 0,
-      "duration": 9859
-    },
-    {
-      "name": "Julien Laroslav",
-      "score": 0,
-      "duration": 9815
+      "duration": 13214
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 9485
+      "duration": 11486
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 9391
+      "duration": 11392
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 9187
+      "duration": 11188
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 8960
+      "duration": 10961
     },
     {
       "name": "Zedkensky Drow",
       "score": -5,
-      "duration": 8838
-    },
-    {
-      "name": "Jordy Larue",
-      "score": 0,
-      "duration": 8466
+      "duration": 10839
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 8030
+      "duration": 10031
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 7550
-    },
-    {
-      "name": "Michel Mastrich",
-      "score": 0,
-      "duration": 4894
+      "duration": 9551
     },
     {
       "name": "Axel Polboy [MiamiBoyzz]",
       "score": 0,
-      "duration": 4577
+      "duration": 6578
     },
     {
       "name": "Ethan Baker",
       "score": 0,
-      "duration": 3176
+      "duration": 5177
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 2939
+      "duration": 4940
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 1326
+      "duration": 3327
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 795
-    },
-    {
-      "name": "Enzo Moretti",
-      "score": 0,
-      "duration": 660
+      "duration": 2797
     },
     {
       "name": "Marc Jols",
       "score": 0,
-      "duration": 524
+      "duration": 2525
     },
     {
       "name": "Kevin Trouille [AFFRANCHIS]",
       "score": 0,
-      "duration": 400
+      "duration": 2401
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 1549
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 1527
     }
   ],
-  "updatedAt": "2026-10-21T21:12:42.035Z"
+  "updatedAt": "2026-10-21T21:46:03.099Z"
 }
