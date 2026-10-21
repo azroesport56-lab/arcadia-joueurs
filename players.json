@@ -2,24 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Hugo Lerat",
-      "score": 0,
-      "duration": 575
-    },
-    {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 477
-    },
-    {
-      "name": "Thomas mosca",
-      "score": 0,
-      "duration": 201
-    }
-  ],
-  "updatedAt": "2026-10-21T12:12:59.097Z"
+  "list": [],
+  "updatedAt": "2026-10-21T12:55:31.207Z"
 }
