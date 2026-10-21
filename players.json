@@ -2,14 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 2,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 862
+      "duration": 3937
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 42
     }
   ],
-  "updatedAt": "2026-10-21T06:20:07.413Z"
+  "updatedAt": "2026-10-21T07:11:22.082Z"
 }
