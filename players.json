@@ -2,109 +2,114 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 20,
+  "players": 21,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 7533
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 7235
+      "duration": 9433
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 7061
+      "duration": 8961
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 6254
+      "duration": 8154
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 6197
+      "duration": 8097
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 6180
+      "duration": 8079
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 6136
+      "duration": 8036
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 5806
+      "duration": 7706
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 5712
+      "duration": 7612
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 5508
+      "duration": 7408
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 5281
+      "duration": 7181
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 5281
+      "duration": 7181
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 5159
+      "duration": 7059
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 4787
+      "duration": 6687
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 4351
+      "duration": 6251
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 3871
+      "duration": 5771
     },
     {
       "name": "Kevin Trouille [AFFRANCHIS]",
       "score": 0,
-      "duration": 2875
+      "duration": 4775
     },
     {
       "name": "Marc Jols",
       "score": 0,
-      "duration": 2525
+      "duration": 4425
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 1215
+      "duration": 3115
     },
     {
       "name": "Axel Polboy [MiamiBoyzz]",
       "score": 0,
-      "duration": 898
+      "duration": 2798
+    },
+    {
+      "name": "Ethan Baker",
+      "score": 0,
+      "duration": 1397
+    },
+    {
+      "name": "Harley White",
+      "score": 0,
+      "duration": 1160
     }
   ],
-  "updatedAt": "2026-10-21T20:11:22.929Z"
+  "updatedAt": "2026-10-21T20:43:02.754Z"
 }
