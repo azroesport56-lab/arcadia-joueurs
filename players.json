@@ -2,79 +2,74 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 14,
+  "players": 13,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 18200
+      "duration": 19887
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 16473
+      "duration": 18160
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 16379
+      "duration": 18066
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 15948
+      "duration": 17635
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 15018
+      "duration": 16705
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 14538
+      "duration": 16225
     },
     {
       "name": "Axel Polboy [MiamiBoyzz]",
       "score": 0,
-      "duration": 11565
+      "duration": 13251
     },
     {
       "name": "Marc Jols",
       "score": 0,
-      "duration": 7511
+      "duration": 9198
     },
     {
       "name": "Kevin Trouille [AFFRANCHIS]",
       "score": 0,
-      "duration": 7388
+      "duration": 9075
     },
     {
       "name": "Zven Voskov",
       "score": 0,
-      "duration": 4862
+      "duration": 6549
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 2879
+      "duration": 4566
     },
     {
       "name": "Pops Tantot",
       "score": -1,
-      "duration": 828
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 663
+      "duration": 2515
     },
     {
       "name": "James Walker",
       "score": 0,
-      "duration": 319
+      "duration": 2005
     }
   ],
-  "updatedAt": "2026-10-21T23:09:09.857Z"
+  "updatedAt": "2026-10-21T23:37:16.687Z"
 }
