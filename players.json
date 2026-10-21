@@ -2,69 +2,74 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 12,
+  "players": 13,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "john pique [Arma RP]",
-      "score": 0,
-      "duration": 21239
-    },
-    {
-      "name": "Jordy Larue",
-      "score": 0,
-      "duration": 21058
-    },
-    {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 20142
+      "duration": 1147
     },
     {
-      "name": "Kevin Trouille [AFFRANCHIS]",
+      "name": "Benoît Riddick",
       "score": 0,
-      "duration": 17064
-    },
-    {
-      "name": "Kevin Becker",
-      "score": 0,
-      "duration": 15280
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 14548
+      "duration": 1146
     },
     {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 8314
+      "duration": 1134
     },
     {
-      "name": "Obito Uchiwa",
+      "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 6171
+      "duration": 1118
+    },
+    {
+      "name": "Jordy Larue",
+      "score": 0,
+      "duration": 1105
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 4161
+      "duration": 1102
+    },
+    {
+      "name": "Kevin Trouille [AFFRANCHIS]",
+      "score": 0,
+      "duration": 1057
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 3005
-    },
-    {
-      "name": "Administrateur",
-      "score": 0,
-      "duration": 2953
+      "duration": 1034
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 1208
+      "duration": 1029
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 1025
+    },
+    {
+      "name": "Tony Melrose",
+      "score": 0,
+      "duration": 795
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 757
+    },
+    {
+      "name": "Zven Voskov",
+      "score": 0,
+      "duration": 511
     }
   ],
-  "updatedAt": "2026-10-20T23:58:38.863Z"
+  "updatedAt": "2026-10-21T00:31:02.509Z"
 }
