@@ -2,19 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 865
+      "duration": 2737
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 924
     },
     {
       "name": "Jon Falco Suarez",
       "score": 0,
-      "duration": 349
+      "duration": 379
     }
   ],
-  "updatedAt": "2026-10-21T11:11:03.995Z"
+  "updatedAt": "2026-10-21T11:42:15.739Z"
 }
