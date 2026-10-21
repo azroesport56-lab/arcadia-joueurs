@@ -2,39 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 4512
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": -5,
-      "duration": 2523
-    },
-    {
       "name": "Momo Larue",
       "score": 0,
-      "duration": 1693
+      "duration": 3999
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 1444
+      "duration": 3751
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 765
+      "duration": 3071
     },
     {
-      "name": "Axel Polboy [MiamiBoyzz]",
+      "name": "Jordy Larue",
       "score": 0,
-      "duration": 512
+      "duration": 1155
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 160
     }
   ],
-  "updatedAt": "2026-10-21T15:17:53.809Z"
+  "updatedAt": "2026-10-21T15:56:20.189Z"
 }
