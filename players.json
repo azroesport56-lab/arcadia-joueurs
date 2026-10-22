@@ -2,16 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Momo Larue",
       "score": 0,
-      "duration": 1234
+      "duration": 859
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 779
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 603
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 236
     }
   ],
-  "updatedAt": "2026-10-22T11:58:51.515Z",
-  "error": "Serveur injoignable (timeout)",
-  "checkedAt": "2026-10-22T12:34:16.283Z"
+  "updatedAt": "2026-10-22T13:22:39.216Z"
 }
