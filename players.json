@@ -2,34 +2,54 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 9,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 4605
+      "duration": 6777
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 3846
+      "duration": 6017
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 3526
+      "duration": 5698
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 750
+      "duration": 2922
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 610
+      "duration": 2781
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 1775
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 1768
+    },
+    {
+      "name": "Pops Tantot",
+      "score": 0,
+      "duration": 1368
+    },
+    {
+      "name": "Alphonse Martel [Arma RP]",
+      "score": 0,
+      "duration": 680
     }
   ],
-  "updatedAt": "2026-10-22T14:35:28.163Z"
+  "updatedAt": "2026-10-22T15:11:39.725Z"
 }
