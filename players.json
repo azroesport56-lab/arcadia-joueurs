@@ -6,105 +6,105 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Jacque Pain",
-      "score": 0,
-      "duration": 5627
-    },
-    {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 5615
-    },
-    {
-      "name": "ryan wolf",
-      "score": 0,
-      "duration": 5614
+      "duration": 7312
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 5598
+      "duration": 7294
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 5563
+      "duration": 7259
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 5552
+      "duration": 7248
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 5540
+      "duration": 7236
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 5531
+      "duration": 7227
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 5439
+      "duration": 7135
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 5404
+      "duration": 7101
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 5386
+      "duration": 7082
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 5331
+      "duration": 7027
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 5327
+      "duration": 7023
     },
     {
       "name": "Dylan Larue",
       "score": 0,
-      "duration": 5115
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 4992
+      "duration": 6811
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 3609
+      "duration": 5305
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 3086
-    },
-    {
-      "name": "John Swift",
-      "score": 0,
-      "duration": 2508
+      "duration": 4782
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 2036
+      "duration": 3732
     },
     {
       "name": "Samuel Cérébos",
       "score": 0,
-      "duration": 160
+      "duration": 1856
+    },
+    {
+      "name": "ryan wolf",
+      "score": 0,
+      "duration": 1220
+    },
+    {
+      "name": "Alex Petrovich",
+      "score": 0,
+      "duration": 1062
+    },
+    {
+      "name": "John Swift",
+      "score": 0,
+      "duration": 468
+    },
+    {
+      "name": "Yves Lerat",
+      "score": 0,
+      "duration": 364
     }
   ],
-  "updatedAt": "2026-10-22T20:58:36.601Z"
+  "updatedAt": "2026-10-22T21:26:52.837Z"
 }
