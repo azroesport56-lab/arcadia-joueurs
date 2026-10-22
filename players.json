@@ -2,114 +2,129 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 22,
+  "players": 24,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 2020
+      "duration": 3619
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 2009
+      "duration": 3607
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 2007
+      "duration": 3606
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 1991
+      "duration": 3590
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 1956
-    },
-    {
-      "name": "Michel Mastrich",
-      "score": 0,
-      "duration": 1949
+      "duration": 3555
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 1945
+      "duration": 3544
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 1933
+      "duration": 3532
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 1924
+      "duration": 3523
     },
     {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 1916
+      "duration": 3515
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 1832
+      "duration": 3431
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 1797
+      "duration": 3396
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 1779
+      "duration": 3378
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 1724
+      "duration": 3323
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 1720
+      "duration": 3319
     },
     {
       "name": "Kairo Blaze",
       "score": 0,
-      "duration": 1710
+      "duration": 3309
     },
     {
       "name": "Richard Salkevich",
       "score": 0,
-      "duration": 1606
+      "duration": 3205
     },
     {
       "name": "Dylan Larue",
       "score": 0,
-      "duration": 1508
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": 0,
-      "duration": 1392
+      "duration": 3107
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 1386
+      "duration": 2984
     },
     {
       "name": "Kuzma Zinaida",
       "score": 0,
-      "duration": 75
+      "duration": 1674
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 1601
+    },
+    {
+      "name": "Kevin Becker",
+      "score": 0,
+      "duration": 1078
+    },
+    {
+      "name": "Jon Falco Suarez",
+      "score": 0,
+      "duration": 522
+    },
+    {
+      "name": "John Swift",
+      "score": 0,
+      "duration": 500
+    },
+    {
+      "name": "Harley White",
+      "score": 0,
+      "duration": 28
     }
   ],
-  "updatedAt": "2026-10-22T19:58:29.684Z"
+  "updatedAt": "2026-10-22T20:25:08.531Z"
 }
