@@ -71,5 +71,7 @@
       "duration": 2005
     }
   ],
-  "updatedAt": "2026-10-21T23:37:16.687Z"
+  "updatedAt": "2026-10-21T23:37:16.687Z",
+  "error": "Serveur injoignable (timeout)",
+  "checkedAt": "2026-10-22T00:00:14.428Z"
 }
