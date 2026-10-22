@@ -2,79 +2,44 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 14,
+  "players": 7,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 10854
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 10836
-    },
-    {
-      "name": "john pique [Arma RP]",
-      "score": 0,
-      "duration": 10778
-    },
-    {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 10769
+      "duration": 12614
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 10677
-    },
-    {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 10643
+      "duration": 12522
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 10624
+      "duration": 12469
     },
     {
       "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 10569
+      "score": -5,
+      "duration": 12415
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 10565
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 8847
+      "duration": 12411
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 8324
+      "duration": 10169
     },
     {
-      "name": "ryan wolf",
+      "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 4762
-    },
-    {
-      "name": "Alex Petrovich",
-      "score": 0,
-      "duration": 4604
-    },
-    {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 2359
+      "duration": 634
     }
   ],
-  "updatedAt": "2026-10-22T22:25:54.866Z"
+  "updatedAt": "2026-10-22T22:56:40.103Z"
 }
