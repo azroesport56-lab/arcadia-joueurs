@@ -2,8 +2,114 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 22,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-10-22T19:24:31.648Z"
+  "list": [
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 2020
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 2009
+    },
+    {
+      "name": "ryan wolf",
+      "score": 0,
+      "duration": 2007
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 1991
+    },
+    {
+      "name": "Bob Fosseur",
+      "score": 0,
+      "duration": 1956
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 1949
+    },
+    {
+      "name": "Morta SouB",
+      "score": 0,
+      "duration": 1945
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 1933
+    },
+    {
+      "name": "Jordy Larue",
+      "score": 0,
+      "duration": 1924
+    },
+    {
+      "name": "Pops Tantot",
+      "score": 0,
+      "duration": 1916
+    },
+    {
+      "name": "Alphonse Martel [Arma RP]",
+      "score": 0,
+      "duration": 1832
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 1797
+    },
+    {
+      "name": "Obito Uchiwa",
+      "score": 0,
+      "duration": 1779
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 1724
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 1720
+    },
+    {
+      "name": "Kairo Blaze",
+      "score": 0,
+      "duration": 1710
+    },
+    {
+      "name": "Richard Salkevich",
+      "score": 0,
+      "duration": 1606
+    },
+    {
+      "name": "Dylan Larue",
+      "score": 0,
+      "duration": 1508
+    },
+    {
+      "name": "Rocco Gracia",
+      "score": 0,
+      "duration": 1392
+    },
+    {
+      "name": "Yves Lerat",
+      "score": 0,
+      "duration": 1386
+    },
+    {
+      "name": "Kuzma Zinaida",
+      "score": 0,
+      "duration": 75
+    }
+  ],
+  "updatedAt": "2026-10-22T19:58:29.684Z"
 }
