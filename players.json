@@ -2,104 +2,79 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 19,
+  "players": 14,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 9257
+      "duration": 10854
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 9240
-    },
-    {
-      "name": "Morta SouB",
-      "score": 0,
-      "duration": 9193
+      "duration": 10836
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 9181
+      "duration": 10778
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 9172
+      "duration": 10769
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 9081
+      "duration": 10677
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 9046
+      "duration": 10643
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 9027
+      "duration": 10624
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 8973
+      "duration": 10569
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 8969
+      "duration": 10565
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 7251
+      "duration": 8847
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 6727
-    },
-    {
-      "name": "Harley White",
-      "score": 0,
-      "duration": 5678
+      "duration": 8324
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 3165
+      "duration": 4762
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 3007
-    },
-    {
-      "name": "John Swift",
-      "score": 0,
-      "duration": 2413
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 2310
-    },
-    {
-      "name": "Léo Iskia",
-      "score": 0,
-      "duration": 970
+      "duration": 4604
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 762
+      "duration": 2359
     }
   ],
-  "updatedAt": "2026-10-22T21:59:18.288Z"
+  "updatedAt": "2026-10-22T22:25:54.866Z"
 }
