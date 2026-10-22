@@ -2,109 +2,104 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 20,
+  "players": 19,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 7312
+      "duration": 9257
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 7294
-    },
-    {
-      "name": "Bob Fosseur",
-      "score": 0,
-      "duration": 7259
+      "duration": 9240
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 7248
+      "duration": 9193
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 7236
+      "duration": 9181
     },
     {
       "name": "Jordy Larue",
       "score": 0,
-      "duration": 7227
+      "duration": 9172
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 7135
+      "duration": 9081
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 7101
+      "duration": 9046
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 7082
+      "duration": 9027
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 7027
+      "duration": 8973
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 7023
-    },
-    {
-      "name": "Dylan Larue",
-      "score": 0,
-      "duration": 6811
+      "duration": 8969
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 5305
+      "duration": 7251
     },
     {
       "name": "Kevin Becker",
       "score": 0,
-      "duration": 4782
+      "duration": 6727
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 3732
-    },
-    {
-      "name": "Samuel Cérébos",
-      "score": 0,
-      "duration": 1856
+      "duration": 5678
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 1220
+      "duration": 3165
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 1062
+      "duration": 3007
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 468
+      "duration": 2413
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 364
+      "duration": 2310
+    },
+    {
+      "name": "Léo Iskia",
+      "score": 0,
+      "duration": 970
+    },
+    {
+      "name": "Julien Bronneau",
+      "score": 0,
+      "duration": 762
     }
   ],
-  "updatedAt": "2026-10-22T21:26:52.837Z"
+  "updatedAt": "2026-10-22T21:59:18.288Z"
 }
