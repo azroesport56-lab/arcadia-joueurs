@@ -2,34 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 2,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "john pique [Arma RP]",
-      "score": 0,
-      "duration": 15839
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 7829
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 6772
-    },
-    {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 6516
+      "duration": 8135
     },
     {
-      "name": "Thomas mosca [Arma RP]",
+      "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 3657
+      "duration": 194
     }
   ],
-  "updatedAt": "2026-10-23T23:09:54.885Z"
+  "updatedAt": "2026-10-23T23:36:53.391Z"
 }
