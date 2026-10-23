@@ -2,79 +2,64 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 14,
+  "players": 11,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alexis Gillet",
       "score": 0,
-      "duration": 8437
-    },
-    {
-      "name": "Alphonse Martel [Arma RP]",
-      "score": 0,
-      "duration": 7332
+      "duration": 10099
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 7318
-    },
-    {
-      "name": "Bob Fosseur",
-      "score": 0,
-      "duration": 6817
-    },
-    {
-      "name": "Zedkensky Drow",
-      "score": 0,
-      "duration": 6326
+      "duration": 8980
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 5502
+      "duration": 7164
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 4767
+      "duration": 6429
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 4342
+      "duration": 6004
     },
     {
       "name": "Richard Salkevich",
       "score": 0,
-      "duration": 3225
+      "duration": 4886
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 1862
+      "duration": 3524
     },
     {
       "name": "Kévin Turbo [WhiteEagle]",
       "score": 0,
-      "duration": 1685
+      "duration": 3347
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 1666
-    },
-    {
-      "name": "pedro gonzalez",
-      "score": 0,
-      "duration": 1172
+      "duration": 3328
     },
     {
       "name": "Quentin Sterling",
       "score": 0,
-      "duration": 92
+      "duration": 1754
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 970
     }
   ],
-  "updatedAt": "2026-10-23T20:47:53.789Z"
+  "updatedAt": "2026-10-23T21:15:35.746Z"
 }
