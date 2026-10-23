@@ -2,34 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 6,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 13006
-    },
-    {
-      "name": "Alexis Gillet",
-      "score": 0,
-      "duration": 11627
+      "duration": 15153
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 3936
+      "duration": 6083
     },
     {
-      "name": "Harley White",
+      "name": "Momo Larue",
       "score": 0,
-      "duration": 3684
+      "duration": 917
     },
     {
-      "name": "Benoît Riddick",
+      "name": "Jordy Larue",
       "score": 0,
-      "duration": 1801
+      "duration": 809
+    },
+    {
+      "name": "ryan wolf",
+      "score": 0,
+      "duration": 135
+    },
+    {
+      "name": "Kuzma Zinaida",
+      "score": 0,
+      "duration": 65
     }
   ],
-  "updatedAt": "2026-10-23T15:41:37.232Z"
+  "updatedAt": "2026-10-23T16:17:24.395Z"
 }
