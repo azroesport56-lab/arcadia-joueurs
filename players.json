@@ -2,69 +2,79 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 12,
+  "players": 14,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alexis Gillet",
       "score": 0,
-      "duration": 5159
+      "duration": 6409
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 5118
+      "duration": 6368
     },
     {
       "name": "Quentin Sterling",
       "score": 0,
-      "duration": 4611
+      "duration": 5861
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 4054
+      "duration": 5305
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 4040
+      "duration": 5291
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 3539
+      "duration": 4790
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 3290
+      "duration": 4540
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 3048
+      "duration": 4299
     },
     {
       "name": "Thomas mosca",
       "score": 0,
-      "duration": 2642
+      "duration": 3892
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 2224
+      "duration": 3474
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 1489
+      "duration": 2740
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 1064
+      "duration": 2315
+    },
+    {
+      "name": "Richard Salkevich",
+      "score": 0,
+      "duration": 1197
+    },
+    {
+      "name": "Julien Laroslav",
+      "score": 0,
+      "duration": 141
     }
   ],
-  "updatedAt": "2026-10-23T19:53:15.812Z"
+  "updatedAt": "2026-10-23T20:14:06.200Z"
 }
