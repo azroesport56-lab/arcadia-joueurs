@@ -2,8 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 6,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-10-23T18:13:29.515Z"
+  "list": [
+    {
+      "name": "Alexis Gillet",
+      "score": 0,
+      "duration": 1563
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 1522
+    },
+    {
+      "name": "Kevin Becker",
+      "score": 0,
+      "duration": 1302
+    },
+    {
+      "name": "Quentin Sterling",
+      "score": 0,
+      "duration": 1015
+    },
+    {
+      "name": "Alphonse Martel [Arma RP]",
+      "score": 0,
+      "duration": 458
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 444
+    }
+  ],
+  "updatedAt": "2026-10-23T18:53:19.696Z"
 }
