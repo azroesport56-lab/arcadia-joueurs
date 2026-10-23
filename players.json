@@ -2,64 +2,74 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 11,
+  "players": 13,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alexis Gillet",
       "score": 0,
-      "duration": 10099
+      "duration": 12047
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 8980
+      "duration": 10929
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 7164
+      "duration": 9112
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 6429
+      "duration": 8378
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 6004
+      "duration": 7953
     },
     {
       "name": "Richard Salkevich",
       "score": 0,
-      "duration": 4886
+      "duration": 6835
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 3524
+      "duration": 5472
     },
     {
       "name": "Kévin Turbo [WhiteEagle]",
       "score": 0,
-      "duration": 3347
+      "duration": 5295
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 3328
+      "duration": 5277
     },
     {
       "name": "Quentin Sterling",
       "score": 0,
-      "duration": 1754
+      "duration": 3703
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 970
+      "duration": 2918
+    },
+    {
+      "name": "Alex Novitchkov",
+      "score": 0,
+      "duration": 1862
+    },
+    {
+      "name": "Neox Novitchkov",
+      "score": 0,
+      "duration": 1605
     }
   ],
-  "updatedAt": "2026-10-23T21:15:35.746Z"
+  "updatedAt": "2026-10-23T21:48:04.198Z"
 }
