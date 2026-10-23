@@ -2,44 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 7,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 4249
+      "duration": 6643
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 3674
-    },
-    {
-      "name": "Harley White",
-      "score": 0,
-      "duration": 3132
+      "duration": 6068
     },
     {
       "name": "Alexis Gillet",
       "score": 0,
-      "duration": 2870
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 2577
+      "duration": 5264
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 221
-    },
-    {
-      "name": "Axel Polboy [MiamiBoyzz]",
-      "score": 0,
-      "duration": 26
+      "duration": 2614
     }
   ],
-  "updatedAt": "2026-10-23T13:15:40.825Z"
+  "updatedAt": "2026-10-23T13:55:34.654Z"
 }
