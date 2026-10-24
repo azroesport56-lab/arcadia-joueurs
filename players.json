@@ -2,34 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 5300
-    },
-    {
-      "name": "Quentin Sterling",
-      "score": 0,
-      "duration": 5036
+      "duration": 6847
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 3744
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 1573
+      "duration": 5290
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 889
+      "duration": 2435
+    },
+    {
+      "name": "Neox Novitchkov",
+      "score": 0,
+      "duration": 1203
     }
   ],
-  "updatedAt": "2026-10-24T13:35:56.897Z"
+  "updatedAt": "2026-10-24T14:01:43.315Z"
 }
