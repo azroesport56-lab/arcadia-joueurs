@@ -2,24 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 2,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 9190
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 1059
+      "duration": 10622
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 498
+      "duration": 1930
     }
   ],
-  "updatedAt": "2026-10-24T20:37:10.130Z"
+  "updatedAt": "2026-10-24T21:01:01.768Z"
 }
