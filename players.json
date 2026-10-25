@@ -2,104 +2,84 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 19,
+  "players": 15,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 7628
+      "duration": 9243
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 7585
+      "duration": 9200
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 7451
+      "duration": 9066
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 7379
+      "duration": 8994
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 7174
+      "duration": 8789
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 6959
+      "duration": 8574
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 6160
-    },
-    {
-      "name": "Tony Romano",
-      "score": 0,
-      "duration": 4925
+      "duration": 7775
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 4776
-    },
-    {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 4648
+      "duration": 6391
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 4205
+      "duration": 5820
     },
     {
       "name": "Matteo Cooke",
       "score": 0,
-      "duration": 4126
+      "duration": 5741
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 4075
-    },
-    {
-      "name": "Axel Polboy [MiamiBoyzz]",
-      "score": 0,
-      "duration": 3546
+      "duration": 5690
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 3056
-    },
-    {
-      "name": "John Swift",
-      "score": 0,
-      "duration": 2754
+      "duration": 4671
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 2008
+      "duration": 3623
     },
     {
-      "name": "Julien Laroslav",
+      "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 873
+      "duration": 1106
     },
     {
-      "name": "Gino Brigante",
+      "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 802
+      "duration": 1004
     }
   ],
-  "updatedAt": "2026-10-25T21:09:49.588Z"
+  "updatedAt": "2026-10-25T21:36:44.359Z"
 }
