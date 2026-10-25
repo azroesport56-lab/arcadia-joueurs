@@ -2,84 +2,79 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 15,
+  "players": 14,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 10640
+      "duration": 11923
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 10597
+      "duration": 11880
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 10463
+      "duration": 11746
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 10391
+      "duration": 11674
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 10186
+      "duration": 11469
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 9971
+      "duration": 11254
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 9172
+      "duration": 10455
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 7788
+      "duration": 9071
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 7217
+      "duration": 8500
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 7088
+      "duration": 8370
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 6069
+      "duration": 7351
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 2503
-    },
-    {
-      "name": "Zedkensky Drow",
-      "score": 0,
-      "duration": 2402
+      "duration": 3786
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 734
+      "duration": 2017
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 90
+      "duration": 1373
     }
   ],
-  "updatedAt": "2026-10-25T22:00:01.776Z"
+  "updatedAt": "2026-10-25T22:21:24.380Z"
 }
