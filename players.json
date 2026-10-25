@@ -6,20 +6,20 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 14432
-    },
-    {
       "name": "Alden Brockwood",
       "score": -5,
-      "duration": 13509
+      "duration": 15212
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 6374
+      "duration": 8077
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 157
     }
   ],
-  "updatedAt": "2026-10-25T04:10:28.395Z"
+  "updatedAt": "2026-10-25T04:38:51.095Z"
 }
