@@ -2,79 +2,94 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 14,
+  "players": 17,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 3446
+      "duration": 4792
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 3403
+      "duration": 4749
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 3269
+      "duration": 4616
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 3197
+      "duration": 4543
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 2992
+      "duration": 4338
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 2777
-    },
-    {
-      "name": "Scott Blake",
-      "score": 0,
-      "duration": 2565
+      "duration": 4124
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 1978
+      "duration": 3325
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 1753
+      "duration": 3099
     },
     {
       "name": "Tony Romano",
       "score": 0,
-      "duration": 743
+      "duration": 2090
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 594
+      "duration": 1941
     },
     {
       "name": "Kairo Blaze",
       "score": 0,
-      "duration": 520
+      "duration": 1867
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 466
+      "duration": 1813
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 23
+      "duration": 1369
+    },
+    {
+      "name": "Matteo Cooke",
+      "score": 0,
+      "duration": 1291
+    },
+    {
+      "name": "tone deuse",
+      "score": 0,
+      "duration": 1240
+    },
+    {
+      "name": "Axel Polboy [MiamiBoyzz]",
+      "score": 0,
+      "duration": 710
+    },
+    {
+      "name": "Scott Blake",
+      "score": 0,
+      "duration": 221
     }
   ],
-  "updatedAt": "2026-10-25T20:00:07.520Z"
+  "updatedAt": "2026-10-25T20:22:34.121Z"
 }
