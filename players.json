@@ -2,64 +2,79 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 11,
+  "players": 14,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 2316
+      "duration": 3446
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 2273
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 2180
+      "duration": 3403
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 2139
+      "duration": 3269
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 2067
+      "duration": 3197
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 1862
+      "duration": 2992
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 1647
+      "duration": 2777
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 1435
+      "duration": 2565
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 848
+      "duration": 1978
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 623
+      "duration": 1753
+    },
+    {
+      "name": "Tony Romano",
+      "score": 0,
+      "duration": 743
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 594
+    },
+    {
+      "name": "Kairo Blaze",
+      "score": 0,
+      "duration": 520
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 465
+      "duration": 466
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 23
     }
   ],
-  "updatedAt": "2026-10-25T19:41:17.706Z"
+  "updatedAt": "2026-10-25T20:00:07.520Z"
 }
