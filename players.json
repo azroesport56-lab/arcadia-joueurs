@@ -2,39 +2,44 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 7,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 15360
+      "duration": 16881
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 14933
-    },
-    {
-      "name": "Sacha Walker",
-      "score": 0,
-      "duration": 9424
+      "duration": 16453
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 6393
+      "duration": 7914
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 5288
+      "duration": 6809
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 4924
+      "duration": 6445
+    },
+    {
+      "name": "Izack Bernou",
+      "score": 0,
+      "duration": 1120
+    },
+    {
+      "name": "Sacha Walker",
+      "score": 0,
+      "duration": 224
     }
   ],
-  "updatedAt": "2026-10-25T17:29:04.116Z"
+  "updatedAt": "2026-10-25T17:54:24.779Z"
 }
