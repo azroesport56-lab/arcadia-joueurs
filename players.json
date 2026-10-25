@@ -2,99 +2,104 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 18,
+  "players": 19,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 6403
+      "duration": 7628
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 6360
+      "duration": 7585
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 6226
+      "duration": 7451
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 6154
+      "duration": 7379
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 5949
+      "duration": 7174
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 5734
+      "duration": 6959
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 4935
+      "duration": 6160
     },
     {
       "name": "Tony Romano",
       "score": 0,
-      "duration": 3700
+      "duration": 4925
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 3551
-    },
-    {
-      "name": "Kairo Blaze",
-      "score": 0,
-      "duration": 3477
+      "duration": 4776
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 3423
+      "duration": 4648
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 2980
+      "duration": 4205
     },
     {
       "name": "Matteo Cooke",
       "score": 0,
-      "duration": 2901
+      "duration": 4126
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 2850
+      "duration": 4075
     },
     {
       "name": "Axel Polboy [MiamiBoyzz]",
       "score": 0,
-      "duration": 2321
+      "duration": 3546
     },
     {
       "name": "Scott Blake",
       "score": 0,
-      "duration": 1831
+      "duration": 3056
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 1529
+      "duration": 2754
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 783
+      "duration": 2008
+    },
+    {
+      "name": "Julien Laroslav",
+      "score": 0,
+      "duration": 873
+    },
+    {
+      "name": "Gino Brigante",
+      "score": 0,
+      "duration": 802
     }
   ],
-  "updatedAt": "2026-10-25T20:49:24.462Z"
+  "updatedAt": "2026-10-25T21:09:49.588Z"
 }
