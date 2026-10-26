@@ -2,104 +2,114 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 19,
+  "players": 21,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 2438
-    },
-    {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 2416
+      "duration": 4406
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 2415
+      "duration": 4405
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 2392
+      "duration": 4382
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 2352
+      "duration": 4342
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 2330
+      "duration": 4320
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 2330
+      "duration": 4320
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 2281
+      "duration": 4271
     },
     {
       "name": "Williame LeRat",
       "score": 0,
-      "duration": 2127
+      "duration": 4117
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 2121
+      "duration": 4111
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 1953
+      "duration": 3943
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 1883
+      "duration": 3873
     },
     {
       "name": "John Woods",
       "score": 0,
-      "duration": 1796
+      "duration": 3786
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 1777
+      "duration": 3767
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 1415
+      "duration": 3404
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 1108
+      "duration": 3098
     },
     {
       "name": "Kévin Turbo [WhiteEagle]",
       "score": 0,
-      "duration": 1081
+      "duration": 3071
     },
     {
       "name": "Tony Romano",
       "score": 0,
-      "duration": 816
+      "duration": 2806
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 15
+      "duration": 2005
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 893
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 834
+    },
+    {
+      "name": "Zedkensky Drow",
+      "score": 0,
+      "duration": 287
     }
   ],
-  "updatedAt": "2026-10-26T20:11:42.581Z"
+  "updatedAt": "2026-10-26T20:44:52.562Z"
 }
