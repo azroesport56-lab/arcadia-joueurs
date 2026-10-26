@@ -2,14 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Alden Brockwood",
-      "score": 0,
-      "duration": 11960
-    }
-  ],
-  "updatedAt": "2026-10-26T10:48:50.365Z"
+  "list": [],
+  "updatedAt": "2026-10-26T11:24:46.186Z"
 }
