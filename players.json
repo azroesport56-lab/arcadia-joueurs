@@ -6,35 +6,40 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 14109
-    },
-    {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 11198
+      "duration": 13320
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 1677
-    },
-    {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 1201
+      "duration": 3799
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 636
+      "duration": 2758
     },
     {
-      "name": "John Woods",
+      "name": "sky jhons",
       "score": 0,
-      "duration": 368
+      "duration": 2124
+    },
+    {
+      "name": "John Swift",
+      "score": 0,
+      "duration": 1855
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 1304
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 1039
     }
   ],
-  "updatedAt": "2026-10-26T17:01:57.871Z"
+  "updatedAt": "2026-10-26T17:37:20.151Z"
 }
