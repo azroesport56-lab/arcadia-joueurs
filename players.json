@@ -6,25 +6,25 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 16979
-    },
-    {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 15204
+      "duration": 17110
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 6224
+      "duration": 8130
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 1136
+      "duration": 3043
+    },
+    {
+      "name": "John Woods",
+      "score": 0,
+      "duration": 266
     }
   ],
-  "updatedAt": "2026-10-26T05:47:01.861Z"
+  "updatedAt": "2026-10-26T06:18:48.155Z"
 }
