@@ -2,29 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Alphonse Martel [Arma RP]",
-      "score": 0,
-      "duration": 16915
-    },
-    {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 15902
+      "duration": 16810
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 14518
+      "duration": 15426
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 7463
+      "duration": 8372
     }
   ],
-  "updatedAt": "2026-10-25T23:52:11.093Z"
+  "updatedAt": "2026-10-26T00:07:19.771Z"
 }
