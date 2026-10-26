@@ -2,124 +2,114 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 23,
+  "players": 21,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 8200
+      "duration": 9873
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 8199
+      "duration": 9871
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 8176
+      "duration": 9849
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 8136
+      "duration": 9808
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 8114
-    },
-    {
-      "name": "Williame LeRat",
-      "score": 0,
-      "duration": 7911
+      "duration": 9786
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 7905
+      "duration": 9577
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 7737
-    },
-    {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 7667
+      "duration": 9409
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 7561
+      "duration": 9233
     },
     {
       "name": "tone deuse",
       "score": 0,
-      "duration": 6892
+      "duration": 8564
     },
     {
       "name": "Kévin Turbo [WhiteEagle]",
       "score": 0,
-      "duration": 6865
-    },
-    {
-      "name": "Tony Romano",
-      "score": 0,
-      "duration": 6600
+      "duration": 8537
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 5799
+      "duration": 7472
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 4687
+      "duration": 6360
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 4628
+      "duration": 6300
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 4081
+      "duration": 5754
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 2633
+      "duration": 4305
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 2329
+      "duration": 4001
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 2259
+      "duration": 3932
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 1903
+      "duration": 3576
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 1465
+      "duration": 3138
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 1396
+      "duration": 3068
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 503
     }
   ],
-  "updatedAt": "2026-10-26T21:48:06.722Z"
+  "updatedAt": "2026-10-26T22:15:59.100Z"
 }
