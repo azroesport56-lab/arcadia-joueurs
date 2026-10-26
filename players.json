@@ -2,69 +2,44 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 12,
+  "players": 7,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 13484
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 13482
-    },
-    {
       "name": "sky jhons",
       "score": 0,
-      "duration": 13460
-    },
-    {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 13397
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 13188
-    },
-    {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 12844
+      "duration": 15325
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 9971
+      "duration": 11836
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 7916
-    },
-    {
-      "name": "Obito Uchiwa",
-      "score": 0,
-      "duration": 7187
+      "duration": 9781
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 4114
+      "duration": 5979
     },
     {
       "name": "Zedkensky Drow",
       "score": -5,
-      "duration": 2518
+      "duration": 4383
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 722
+      "duration": 2586
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 923
     }
   ],
-  "updatedAt": "2026-10-26T23:16:10.355Z"
+  "updatedAt": "2026-10-26T23:47:15.229Z"
 }
