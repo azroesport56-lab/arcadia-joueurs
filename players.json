@@ -2,114 +2,99 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 21,
+  "players": 18,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 9873
+      "duration": 12016
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 9871
+      "duration": 12015
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 9849
+      "duration": 11992
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 9808
+      "duration": 11952
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 9786
+      "duration": 11930
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 9577
-    },
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 9409
+      "duration": 11721
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 9233
-    },
-    {
-      "name": "tone deuse",
-      "score": 0,
-      "duration": 8564
-    },
-    {
-      "name": "Kévin Turbo [WhiteEagle]",
-      "score": 0,
-      "duration": 8537
+      "duration": 11377
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 7472
+      "duration": 9615
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 6360
+      "duration": 8504
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 6300
-    },
-    {
-      "name": "Zedkensky Drow",
-      "score": 0,
-      "duration": 5754
+      "duration": 8444
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 4305
+      "duration": 6449
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 4001
+      "duration": 6145
     },
     {
       "name": "Morta SouB",
       "score": 0,
-      "duration": 3932
+      "duration": 6075
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 3576
+      "duration": 5719
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 3138
+      "duration": 5281
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 3068
+      "duration": 5212
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 503
+      "duration": 2646
+    },
+    {
+      "name": "Zedkensky Drow",
+      "score": -5,
+      "duration": 1051
     }
   ],
-  "updatedAt": "2026-10-26T22:15:59.100Z"
+  "updatedAt": "2026-10-26T22:51:42.890Z"
 }
