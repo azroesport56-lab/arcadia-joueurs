@@ -2,44 +2,59 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 7,
+  "players": 10,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 10680
+      "duration": 12735
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 10564
+      "duration": 12620
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 7850
+      "duration": 9906
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 5426
+      "duration": 7482
     },
     {
       "name": "Benoît Riddick",
       "score": -5,
-      "duration": 2102
+      "duration": 4157
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 1338
+      "duration": 3393
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 373
+      "duration": 2429
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 1727
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 1311
+    },
+    {
+      "name": "Julien Bronneau",
+      "score": 0,
+      "duration": 1204
     }
   ],
-  "updatedAt": "2026-10-27T17:49:56.974Z"
+  "updatedAt": "2026-10-27T18:24:12.408Z"
 }
