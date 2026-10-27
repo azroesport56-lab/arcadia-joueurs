@@ -2,29 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Benoît Riddick",
       "score": -5,
-      "duration": 2522
-    },
-    {
-      "name": "Alden Brockwood",
-      "score": 0,
-      "duration": 2364
+      "duration": 5039
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 171
+      "duration": 2688
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 56
+      "duration": 2573
     }
   ],
-  "updatedAt": "2026-10-27T14:54:48.596Z"
+  "updatedAt": "2026-10-27T15:36:45.643Z"
 }
