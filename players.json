@@ -2,124 +2,139 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 23,
+  "players": 26,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 4829
-    },
-    {
-      "name": "Bob Fosseur",
-      "score": 0,
-      "duration": 4721
+      "duration": 6913
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 4708
+      "duration": 6793
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 4613
+      "duration": 6698
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 4609
+      "duration": 6693
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 4602
+      "duration": 6686
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 4577
+      "duration": 6662
     },
     {
       "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 4159
+      "score": -1,
+      "duration": 6244
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 4001
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 3706
+      "duration": 6086
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 3481
+      "duration": 5566
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 3448
+      "duration": 5533
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 3288
+      "duration": 5373
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 3258
+      "duration": 5343
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 3051
+      "duration": 5136
     },
     {
       "name": "Rocco Gracia",
       "score": 0,
-      "duration": 2703
-    },
-    {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 2024
-    },
-    {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 1675
+      "duration": 4788
     },
     {
       "name": "Williame LeRat",
       "score": 0,
-      "duration": 1414
+      "duration": 3499
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 1189
+      "duration": 3274
     },
     {
       "name": "Tony Romano",
       "score": 0,
-      "duration": 1154
+      "duration": 3239
     },
     {
       "name": "Gino Brigante",
-      "score": 0,
-      "duration": 299
+      "score": -2,
+      "duration": 2384
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 168
+      "duration": 2253
+    },
+    {
+      "name": "Morta SouB",
+      "score": -2,
+      "duration": 2084
+    },
+    {
+      "name": "Axel Polboy [MiamiBoyzz]",
+      "score": 0,
+      "duration": 1907
+    },
+    {
+      "name": "Gabriel Attan",
+      "score": 0,
+      "duration": 1204
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 925
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 903
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 848
+    },
+    {
+      "name": "tone deuse",
+      "score": 0,
+      "duration": 833
     }
   ],
-  "updatedAt": "2026-10-27T20:22:35.714Z"
+  "updatedAt": "2026-10-27T20:57:20.626Z"
 }
