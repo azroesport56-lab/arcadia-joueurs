@@ -2,24 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 8149
-    },
-    {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 7974
+      "duration": 10032
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 7964
+      "duration": 10021
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 1349
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 702
     }
   ],
-  "updatedAt": "2026-10-27T05:24:54.574Z"
+  "updatedAt": "2026-10-27T05:59:12.144Z"
 }
