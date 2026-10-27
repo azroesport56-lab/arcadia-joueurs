@@ -6,55 +6,55 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 12735
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 12620
-    },
-    {
-      "name": "john pique [Arma RP]",
-      "score": 0,
-      "duration": 9906
-    },
-    {
-      "name": "Alphonse Martel [Arma RP]",
-      "score": 0,
-      "duration": 7482
-    },
-    {
-      "name": "Benoît Riddick",
-      "score": -5,
-      "duration": 4157
-    },
-    {
-      "name": "Marko Plantin",
-      "score": 0,
-      "duration": 3393
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 2429
-    },
-    {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 1727
+      "duration": 607
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 1311
+      "duration": 530
     },
     {
-      "name": "Julien Bronneau",
+      "name": "Bob Fosseur",
       "score": 0,
-      "duration": 1204
+      "duration": 499
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 487
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 444
+    },
+    {
+      "name": "Alex Novitchkov",
+      "score": 0,
+      "duration": 434
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 391
+    },
+    {
+      "name": "Izack Bernou",
+      "score": 0,
+      "duration": 387
+    },
+    {
+      "name": "Neox Novitchkov",
+      "score": 0,
+      "duration": 380
+    },
+    {
+      "name": "Alphonse Martel [Arma RP]",
+      "score": 0,
+      "duration": 355
     }
   ],
-  "updatedAt": "2026-10-27T18:24:12.408Z"
+  "updatedAt": "2026-10-27T19:12:13.941Z"
 }
