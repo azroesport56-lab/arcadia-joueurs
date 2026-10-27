@@ -2,144 +2,79 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 27,
+  "players": 14,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 12869
+      "duration": 14834
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 12748
+      "duration": 14714
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 12653
+      "duration": 14619
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 12649
+      "duration": 14614
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 12642
+      "duration": 14607
     },
     {
       "name": "Julien Bronneau",
       "score": -1,
-      "duration": 12199
+      "duration": 14165
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 12041
+      "duration": 14007
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 11521
-    },
-    {
-      "name": "Francis Samous",
-      "score": 0,
-      "duration": 11488
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 11328
-    },
-    {
-      "name": "John Swift",
-      "score": 0,
-      "duration": 11298
-    },
-    {
-      "name": "Jacque Pain",
-      "score": 0,
-      "duration": 11091
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": 0,
-      "duration": 10743
-    },
-    {
-      "name": "Williame LeRat",
-      "score": 0,
-      "duration": 9454
-    },
-    {
-      "name": "Julien Laroslav",
-      "score": 0,
-      "duration": 9229
-    },
-    {
-      "name": "Zedkensky Drow",
-      "score": 0,
-      "duration": 8208
-    },
-    {
-      "name": "Morta SouB",
-      "score": -2,
-      "duration": 8039
-    },
-    {
-      "name": "Axel Polboy [MiamiBoyzz]",
-      "score": 0,
-      "duration": 7862
-    },
-    {
-      "name": "Gabriel Attan",
-      "score": -1,
-      "duration": 7159
+      "duration": 13487
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 6880
+      "duration": 8846
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 6858
+      "duration": 8824
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 6803
-    },
-    {
-      "name": "tone deuse",
-      "score": 0,
-      "duration": 6789
-    },
-    {
-      "name": "Kévin Turbo [WhiteEagle]",
-      "score": 0,
-      "duration": 5142
+      "duration": 8769
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 4649
+      "duration": 6615
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 3369
+      "duration": 5335
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 712
+      "duration": 2678
     }
   ],
-  "updatedAt": "2026-10-27T22:36:35.859Z"
+  "updatedAt": "2026-10-27T23:09:21.617Z"
 }
