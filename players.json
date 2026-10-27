@@ -2,99 +2,124 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 18,
+  "players": 23,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 2838
+      "duration": 4829
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 2730
+      "duration": 4721
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 2718
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 2666
+      "duration": 4708
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 2622
+      "duration": 4613
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 2618
+      "duration": 4609
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 2611
+      "duration": 4602
     },
     {
       "name": "Alphonse Martel [Arma RP]",
       "score": 0,
-      "duration": 2586
+      "duration": 4577
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 2168
+      "duration": 4159
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 2010
+      "duration": 4001
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 1715
+      "duration": 3706
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 1491
+      "duration": 3481
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 1457
+      "duration": 3448
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 1298
+      "duration": 3288
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 1268
+      "duration": 3258
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 1061
+      "duration": 3051
     },
     {
       "name": "Rocco Gracia",
       "score": 0,
-      "duration": 713
+      "duration": 2703
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 33
+      "duration": 2024
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 1675
+    },
+    {
+      "name": "Williame LeRat",
+      "score": 0,
+      "duration": 1414
+    },
+    {
+      "name": "Julien Laroslav",
+      "score": 0,
+      "duration": 1189
+    },
+    {
+      "name": "Tony Romano",
+      "score": 0,
+      "duration": 1154
+    },
+    {
+      "name": "Gino Brigante",
+      "score": 0,
+      "duration": 299
+    },
+    {
+      "name": "Zedkensky Drow",
+      "score": 0,
+      "duration": 168
     }
   ],
-  "updatedAt": "2026-10-27T19:49:25.207Z"
+  "updatedAt": "2026-10-27T20:22:35.714Z"
 }
