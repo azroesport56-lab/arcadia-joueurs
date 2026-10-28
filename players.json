@@ -2,44 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 7,
+  "players": 6,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 16460
+      "duration": 18206
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 16365
+      "duration": 18111
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 16354
+      "duration": 18099
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 15753
-    },
-    {
-      "name": "Alex Petrovich",
-      "score": 0,
-      "duration": 15233
+      "duration": 17499
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 10592
+      "duration": 12338
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 7081
+      "duration": 8827
     }
   ],
-  "updatedAt": "2026-10-27T23:38:27.909Z"
+  "updatedAt": "2026-10-28T00:07:33.592Z"
 }
