@@ -2,19 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 1139
-    },
-    {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 919
-    }
-  ],
-  "updatedAt": "2026-10-28T12:09:09.615Z"
+  "list": [],
+  "updatedAt": "2026-10-28T12:58:54.100Z"
 }
