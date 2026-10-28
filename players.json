@@ -2,54 +2,49 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 9,
+  "players": 8,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 14544
+      "duration": 16529
     },
     {
       "name": "Grigorii Andreev [FLA]",
       "score": 0,
-      "duration": 11547
+      "duration": 13533
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 11485
+      "duration": 13471
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 10502
+      "duration": 12487
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 8252
+      "duration": 10237
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 7098
-    },
-    {
-      "name": "Harley White",
-      "score": 0,
-      "duration": 6432
+      "duration": 9084
     },
     {
       "name": "Zedkensky Drow",
-      "score": 0,
-      "duration": 5935
+      "score": -2,
+      "duration": 7920
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 4421
+      "duration": 6406
     }
   ],
-  "updatedAt": "2026-10-28T23:12:32.173Z"
+  "updatedAt": "2026-10-28T23:45:37.662Z"
 }
