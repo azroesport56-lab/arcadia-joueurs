@@ -2,14 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 2,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 9889
+      "duration": 12041
+    },
+    {
+      "name": "ryan wolf",
+      "score": 0,
+      "duration": 1790
     }
   ],
-  "updatedAt": "2026-10-28T10:49:54.680Z"
+  "updatedAt": "2026-10-28T11:25:47.486Z"
 }
