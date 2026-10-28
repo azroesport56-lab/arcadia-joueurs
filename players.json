@@ -6,25 +6,25 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Alden Brockwood",
-      "score": 0,
-      "duration": 19051
-    },
-    {
       "name": "sky jhons",
       "score": 0,
-      "duration": 18348
+      "duration": 2239
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 7450
+      "duration": 2176
     },
     {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 4258
+      "duration": 1855
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 417
     }
   ],
-  "updatedAt": "2026-10-28T06:45:42.832Z"
+  "updatedAt": "2026-10-28T07:41:33.091Z"
 }
