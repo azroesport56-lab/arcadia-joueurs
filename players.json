@@ -2,74 +2,54 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 13,
+  "players": 9,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 12340
-    },
-    {
-      "name": "Alex Petrovich",
-      "score": 0,
-      "duration": 10318
+      "duration": 14544
     },
     {
       "name": "Grigorii Andreev [FLA]",
       "score": 0,
-      "duration": 9344
+      "duration": 11547
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 9282
+      "duration": 11485
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 8298
+      "duration": 10502
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 6048
+      "duration": 8252
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 4895
+      "duration": 7098
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 4228
+      "duration": 6432
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 3731
+      "duration": 5935
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 2217
-    },
-    {
-      "name": "Bryan LaTortue",
-      "score": 0,
-      "duration": 2008
-    },
-    {
-      "name": "Riyan Braga",
-      "score": 0,
-      "duration": 1984
-    },
-    {
-      "name": "Jasson Broks",
-      "score": 0,
-      "duration": 751
+      "duration": 4421
     }
   ],
-  "updatedAt": "2026-10-28T22:35:48.664Z"
+  "updatedAt": "2026-10-28T23:12:32.173Z"
 }
