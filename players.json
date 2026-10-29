@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-10-29T03:31:14.584Z"
+  "list": [
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 102
+    }
+  ],
+  "updatedAt": "2026-10-29T04:19:20.308Z"
 }
