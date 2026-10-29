@@ -2,24 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 3599
+      "duration": 6279
     },
     {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 1869
+      "duration": 4549
     },
     {
       "name": "sky jhons",
       "score": -1,
-      "duration": 896
+      "duration": 3575
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 676
+    },
+    {
+      "name": "ryan wolf",
+      "score": 0,
+      "duration": 356
     }
   ],
-  "updatedAt": "2026-10-29T10:02:01.468Z"
+  "updatedAt": "2026-10-29T10:46:41.244Z"
 }
