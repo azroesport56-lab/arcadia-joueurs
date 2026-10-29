@@ -2,29 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 6822
-    },
-    {
-      "name": "sky jhons",
-      "score": -1,
-      "duration": 5848
-    },
-    {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 2948
+      "duration": 5525
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 2629
+      "duration": 5206
+    },
+    {
+      "name": "Pops Tantot",
+      "score": 0,
+      "duration": 1704
     }
   ],
-  "updatedAt": "2026-10-29T11:24:33.736Z"
+  "updatedAt": "2026-10-29T12:07:31.157Z"
 }
