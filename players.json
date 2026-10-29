@@ -2,109 +2,124 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 20,
+  "players": 23,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 4417
+      "duration": 7062
     },
     {
       "name": "Izack Bernou",
       "score": 0,
-      "duration": 4012
+      "duration": 6657
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 3933
+      "duration": 6578
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 3222
+      "duration": 5867
     },
     {
       "name": "John Swift",
       "score": 0,
-      "duration": 3148
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": 0,
-      "duration": 2694
+      "duration": 5793
     },
     {
       "name": "Williame LeRat",
       "score": 0,
-      "duration": 2676
+      "duration": 5321
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 2576
+      "duration": 5220
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 2532
+      "duration": 5177
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 2337
+      "duration": 4982
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 2247
-    },
-    {
-      "name": "rico garcia [LOPEZ]",
-      "score": 0,
-      "duration": 2187
+      "duration": 4892
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 1839
+      "duration": 4484
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 1836
+      "duration": 4481
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 1379
+      "duration": 4024
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 1305
+      "duration": 3950
     },
     {
       "name": "ichem chergui",
       "score": 0,
-      "duration": 982
+      "duration": 3626
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 549
+      "duration": 3194
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 369
+      "duration": 3013
     },
     {
-      "name": "Enzo Gambino",
+      "name": "Abou Ben Mohamed",
       "score": 0,
-      "duration": 137
+      "duration": 2575
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 2121
+    },
+    {
+      "name": "Rocco Gracia",
+      "score": 0,
+      "duration": 1282
+    },
+    {
+      "name": "Axel Polboy [MiamiBoyzz]",
+      "score": 0,
+      "duration": 445
+    },
+    {
+      "name": "Obito Uchiwa",
+      "score": 0,
+      "duration": 145
+    },
+    {
+      "name": "Gino Brigante",
+      "score": 0,
+      "duration": 44
     }
   ],
-  "updatedAt": "2026-10-29T20:18:27.346Z"
+  "updatedAt": "2026-10-29T21:02:32.183Z"
 }
