@@ -2,51 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 8,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Grigorii Andreev [FLA]",
-      "score": 0,
-      "duration": 15400
-    },
-    {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 15338
-    },
-    {
-      "name": "Francis Samous",
-      "score": 0,
-      "duration": 14354
-    },
-    {
-      "name": "Michel Mastrich",
-      "score": 0,
-      "duration": 12104
-    },
-    {
-      "name": "Obito Uchiwa",
-      "score": 0,
-      "duration": 10951
-    },
-    {
-      "name": "Zedkensky Drow",
-      "score": -2,
-      "duration": 9788
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 8273
-    },
-    {
-      "name": "John Woods",
-      "score": 0,
-      "duration": 69
-    }
-  ],
-  "updatedAt": "2026-10-29T00:16:44.885Z",
-  "error": "Serveur injoignable (timeout)",
-  "checkedAt": "2026-10-29T01:18:56.406Z"
+  "list": [],
+  "updatedAt": "2026-10-29T02:10:25.957Z"
 }
