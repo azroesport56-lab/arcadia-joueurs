@@ -6,45 +6,45 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 16529
-    },
-    {
       "name": "Grigorii Andreev [FLA]",
       "score": 0,
-      "duration": 13533
+      "duration": 15400
     },
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 13471
+      "duration": 15338
     },
     {
       "name": "Francis Samous",
       "score": 0,
-      "duration": 12487
+      "duration": 14354
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 10237
+      "duration": 12104
     },
     {
       "name": "Obito Uchiwa",
       "score": 0,
-      "duration": 9084
+      "duration": 10951
     },
     {
       "name": "Zedkensky Drow",
       "score": -2,
-      "duration": 7920
+      "duration": 9788
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 6406
+      "duration": 8273
+    },
+    {
+      "name": "John Woods",
+      "score": 0,
+      "duration": 69
     }
   ],
-  "updatedAt": "2026-10-28T23:45:37.662Z"
+  "updatedAt": "2026-10-29T00:16:44.885Z"
 }
