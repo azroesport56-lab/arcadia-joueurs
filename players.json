@@ -2,14 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 1522
+      "duration": 4259
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 2479
+    },
+    {
+      "name": "Evan Leblond",
+      "score": 0,
+      "duration": 1732
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 1049
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 482
     }
   ],
-  "updatedAt": "2026-10-30T16:35:08.306Z"
+  "updatedAt": "2026-10-30T17:20:45.376Z"
 }
