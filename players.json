@@ -2,59 +2,64 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 10,
+  "players": 11,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 4933
-    },
-    {
-      "name": "Hugo Lerat",
-      "score": 0,
-      "duration": 4752
-    },
-    {
-      "name": "Corentin Dupont",
-      "score": 0,
-      "duration": 4590
+      "duration": 7108
     },
     {
       "name": "ryan wolf",
       "score": 0,
-      "duration": 4380
+      "duration": 6554
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 3643
-    },
-    {
-      "name": "Thomas mosca [Arma RP]",
-      "score": 0,
-      "duration": 3621
+      "duration": 5818
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 3366
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": 0,
-      "duration": 3020
+      "duration": 5541
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 2510
+      "duration": 4685
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 2097
+      "duration": 4271
+    },
+    {
+      "name": "Corentin Dupont",
+      "score": 0,
+      "duration": 760
+    },
+    {
+      "name": "John Woods",
+      "score": 0,
+      "duration": 730
+    },
+    {
+      "name": "Enzo Gambino",
+      "score": 0,
+      "duration": 689
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 604
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 30
     }
   ],
-  "updatedAt": "2026-10-30T20:40:54.281Z"
+  "updatedAt": "2026-10-30T21:17:08.859Z"
 }
