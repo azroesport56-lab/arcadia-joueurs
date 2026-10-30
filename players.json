@@ -2,49 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 8,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 13255
-    },
-    {
-      "name": "john pique [Arma RP]",
-      "score": 0,
-      "duration": 11965
-    },
-    {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 11688
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 10832
-    },
-    {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 10419
+      "duration": 13524
     },
     {
       "name": "John Woods",
       "score": 0,
-      "duration": 6878
-    },
-    {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 6752
+      "duration": 8713
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 4627
+      "duration": 6462
     }
   ],
-  "updatedAt": "2026-10-30T22:59:36.201Z"
+  "updatedAt": "2026-10-30T23:30:11.919Z"
 }
