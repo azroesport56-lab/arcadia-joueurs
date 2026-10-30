@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-10-30T13:16:51.095Z"
+  "list": [
+    {
+      "name": "Alex Novitchkov",
+      "score": 0,
+      "duration": 351
+    }
+  ],
+  "updatedAt": "2026-10-30T14:14:15.260Z"
 }
