@@ -2,34 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 13293
+      "duration": 15338
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 13290
+      "duration": 15335
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 11822
+      "duration": 13867
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 279
-    },
-    {
-      "name": "Michel Mastrich",
-      "score": 0,
-      "duration": 264
+      "duration": 2324
     }
   ],
-  "updatedAt": "2026-10-29T23:29:21.358Z"
+  "updatedAt": "2026-10-30T00:03:26.161Z"
 }
