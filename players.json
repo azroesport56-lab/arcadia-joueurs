@@ -2,39 +2,44 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 7,
   "maxPlayers": 146,
   "list": [
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 5894
+      "duration": 7954
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 5829
+      "duration": 7889
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 5709
-    },
-    {
-      "name": "lylou dupont",
-      "score": 0,
-      "duration": 4277
+      "duration": 7769
     },
     {
       "name": "Jacque Pain",
       "score": -5,
-      "duration": 3929
+      "duration": 5990
     },
     {
       "name": "Alden Brockwood",
       "score": -5,
-      "duration": 1757
+      "duration": 3817
+    },
+    {
+      "name": "Axel Polboy [MiamiBoyzz]",
+      "score": 0,
+      "duration": 2030
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 1149
     }
   ],
-  "updatedAt": "2026-10-31T20:40:11.422Z"
+  "updatedAt": "2026-10-31T21:14:31.932Z"
 }
