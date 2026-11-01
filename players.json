@@ -2,94 +2,99 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 17,
+  "players": 18,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 2758
-    },
-    {
-      "name": "Grigorii Andreev [FLA]",
-      "score": 0,
-      "duration": 2635
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 2495
-    },
-    {
-      "name": "Scott Blake",
-      "score": 0,
-      "duration": 2444
-    },
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 2441
-    },
-    {
-      "name": "Alden Brockwood",
-      "score": 0,
-      "duration": 2044
-    },
-    {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 2025
-    },
-    {
-      "name": "Julien Laroslav",
-      "score": 0,
-      "duration": 1817
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 1543
-    },
-    {
-      "name": "Williame LeRat",
-      "score": 0,
-      "duration": 967
-    },
-    {
-      "name": "Youssef Benali",
-      "score": 0,
-      "duration": 658
-    },
-    {
-      "name": "Kévin Turbo [WhiteEagle]",
-      "score": 0,
-      "duration": 642
-    },
-    {
-      "name": "Julien Bronneau",
-      "score": 0,
-      "duration": 611
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 473
-    },
-    {
       "name": "Jacque Pain",
       "score": 0,
-      "duration": 160
-    },
-    {
-      "name": "Gino Brigante",
-      "score": 0,
-      "duration": 77
+      "duration": 940
     },
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 68
+      "duration": 911
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 877
+    },
+    {
+      "name": "Neox Novitchkov",
+      "score": 0,
+      "duration": 872
+    },
+    {
+      "name": "Morta SouB",
+      "score": 0,
+      "duration": 768
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 754
+    },
+    {
+      "name": "Alex Novitchkov",
+      "score": 0,
+      "duration": 750
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 737
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 737
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 715
+    },
+    {
+      "name": "Gino Brigante",
+      "score": 0,
+      "duration": 690
+    },
+    {
+      "name": "Yves Lerat",
+      "score": 0,
+      "duration": 655
+    },
+    {
+      "name": "Williame LeRat",
+      "score": 0,
+      "duration": 641
+    },
+    {
+      "name": "Youssef Benali",
+      "score": 0,
+      "duration": 560
+    },
+    {
+      "name": "Julien Laroslav",
+      "score": 0,
+      "duration": 552
+    },
+    {
+      "name": "Kévin Turbo [WhiteEagle]",
+      "score": 0,
+      "duration": 425
+    },
+    {
+      "name": "Scott Blake",
+      "score": 0,
+      "duration": 376
+    },
+    {
+      "name": "Grigorii Andreev [FLA]",
+      "score": 0,
+      "duration": 346
     }
   ],
-  "updatedAt": "2026-11-01T20:12:16.398Z"
+  "updatedAt": "2026-11-01T20:45:56.763Z"
 }
