@@ -2,34 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 6,
   "maxPlayers": 146,
   "list": [
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 813
+      "duration": 3321
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 691
+      "duration": 3199
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 671
+      "duration": 3178
     },
     {
       "name": "Scamé Jaks",
       "score": 0,
-      "duration": 641
+      "duration": 3149
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 566
+      "duration": 3073
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 1034
     }
   ],
-  "updatedAt": "2026-11-01T13:15:31.077Z"
+  "updatedAt": "2026-11-01T13:57:18.672Z"
 }
