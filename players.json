@@ -2,89 +2,84 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 16,
+  "players": 15,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 2826
-    },
-    {
-      "name": "Eugène Colonna [FLA]",
-      "score": 0,
-      "duration": 2792
+      "duration": 4920
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 2787
+      "duration": 4880
     },
     {
       "name": "Morta SouB",
       "score": -2,
-      "duration": 2682
+      "duration": 4776
     },
     {
       "name": "Nik Cooper [F.D.L.A]",
       "score": 0,
-      "duration": 2669
+      "duration": 4763
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 2665
+      "duration": 4759
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 2652
+      "duration": 4746
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 2652
+      "duration": 4745
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 2605
+      "duration": 4699
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 2570
+      "duration": 4664
     },
     {
       "name": "Williame LeRat",
       "score": -1,
-      "duration": 2556
-    },
-    {
-      "name": "Youssef Benali",
-      "score": 0,
-      "duration": 2474
+      "duration": 4650
     },
     {
       "name": "Julien Laroslav",
       "score": 0,
-      "duration": 2466
-    },
-    {
-      "name": "Kévin Turbo [WhiteEagle]",
-      "score": 0,
-      "duration": 2340
-    },
-    {
-      "name": "Scott Blake",
-      "score": 0,
-      "duration": 2290
+      "duration": 4560
     },
     {
       "name": "Grigorii Andreev [FLA]",
       "score": 0,
-      "duration": 2260
+      "duration": 1832
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": -1,
+      "duration": 1802
+    },
+    {
+      "name": "Zedkensky Drow",
+      "score": 0,
+      "duration": 1153
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": -1,
+      "duration": 782
     }
   ],
-  "updatedAt": "2026-11-01T21:17:51.613Z"
+  "updatedAt": "2026-11-01T21:52:45.241Z"
 }
