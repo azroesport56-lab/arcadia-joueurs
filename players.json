@@ -2,8 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 2,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-01T03:56:26.161Z"
+  "list": [
+    {
+      "name": "Harley White",
+      "score": 0,
+      "duration": 1403
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 159
+    }
+  ],
+  "updatedAt": "2026-11-01T04:42:14.965Z"
 }
