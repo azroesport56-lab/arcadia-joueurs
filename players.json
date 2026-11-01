@@ -16,5 +16,7 @@
       "duration": 1001
     }
   ],
-  "updatedAt": "2026-11-01T18:17:55.171Z"
+  "updatedAt": "2026-11-01T18:17:55.171Z",
+  "error": "Serveur injoignable (timeout)",
+  "checkedAt": "2026-11-01T19:04:44.473Z"
 }
