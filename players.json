@@ -2,84 +2,74 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 15,
+  "players": 13,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 4920
+      "duration": 6630
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 4880
+      "duration": 6590
     },
     {
       "name": "Morta SouB",
       "score": -2,
-      "duration": 4776
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 4763
+      "duration": 6486
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 4759
+      "duration": 6469
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 4746
+      "duration": 6456
     },
     {
       "name": "Alden Brockwood",
-      "score": 0,
-      "duration": 4745
+      "score": -1,
+      "duration": 6455
     },
     {
       "name": "Gino Brigante",
       "score": 0,
-      "duration": 4699
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 4664
-    },
-    {
-      "name": "Williame LeRat",
-      "score": -1,
-      "duration": 4650
+      "duration": 6409
     },
     {
       "name": "Julien Laroslav",
-      "score": 0,
-      "duration": 4560
+      "score": -2,
+      "duration": 6270
     },
     {
       "name": "Grigorii Andreev [FLA]",
       "score": 0,
-      "duration": 1832
+      "duration": 3542
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": -1,
-      "duration": 1802
+      "duration": 3512
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 1153
+      "duration": 2863
     },
     {
       "name": "Scamé Jaks",
       "score": -1,
-      "duration": 782
+      "duration": 2492
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 1429
     }
   ],
-  "updatedAt": "2026-11-01T21:52:45.241Z"
+  "updatedAt": "2026-11-01T22:21:15.298Z"
 }
