@@ -2,74 +2,54 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 13,
+  "players": 9,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 6630
-    },
-    {
-      "name": "Neox Novitchkov",
-      "score": 0,
-      "duration": 6590
+      "duration": 8683
     },
     {
       "name": "Morta SouB",
-      "score": -2,
-      "duration": 6486
-    },
-    {
-      "name": "Alex Novitchkov",
-      "score": 0,
-      "duration": 6469
+      "score": -3,
+      "duration": 8539
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 6456
-    },
-    {
-      "name": "Alden Brockwood",
-      "score": -1,
-      "duration": 6455
+      "duration": 8509
     },
     {
       "name": "Gino Brigante",
-      "score": 0,
-      "duration": 6409
+      "score": -8,
+      "duration": 8462
     },
     {
       "name": "Julien Laroslav",
-      "score": -2,
-      "duration": 6270
-    },
-    {
-      "name": "Grigorii Andreev [FLA]",
-      "score": 0,
-      "duration": 3542
-    },
-    {
-      "name": "Eugène Colonna [FLA]",
-      "score": -1,
-      "duration": 3512
+      "score": -4,
+      "duration": 8323
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 2863
+      "duration": 4916
     },
     {
       "name": "Scamé Jaks",
-      "score": -1,
-      "duration": 2492
+      "score": -6,
+      "duration": 4545
     },
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 1429
+      "duration": 3482
+    },
+    {
+      "name": "Jacque Pain",
+      "score": 0,
+      "duration": 1005
     }
   ],
-  "updatedAt": "2026-11-01T22:21:15.298Z"
+  "updatedAt": "2026-11-01T22:55:28.761Z"
 }
