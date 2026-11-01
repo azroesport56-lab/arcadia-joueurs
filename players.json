@@ -2,29 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 9368
+      "duration": 11448
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 9121
+      "duration": 11201
     },
     {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 4140
+      "duration": 6220
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 441
     },
     {
       "name": "rico garcia [LOPEZ]",
       "score": 0,
-      "duration": 1397
+      "duration": 38
     }
   ],
-  "updatedAt": "2026-11-01T15:38:06.556Z"
+  "updatedAt": "2026-11-01T16:12:46.409Z"
 }
