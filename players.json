@@ -2,29 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 2317
+      "duration": 4777
     },
     {
       "name": "Zedkensky Drow",
       "score": 0,
-      "duration": 1893
+      "duration": 4353
     },
     {
       "name": "Benoit Riddick",
       "score": 0,
-      "duration": 1729
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 799
+      "duration": 4189
     }
   ],
-  "updatedAt": "2026-11-01T23:55:49.779Z"
+  "updatedAt": "2026-11-02T00:36:49.837Z"
 }
