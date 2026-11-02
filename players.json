@@ -2,19 +2,44 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 7,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Corentin Dupont",
       "score": 0,
-      "duration": 499
+      "duration": 3338
     },
     {
       "name": "Tony Romano",
       "score": 0,
-      "duration": 132
+      "duration": 2971
+    },
+    {
+      "name": "Bob Fosseur",
+      "score": 0,
+      "duration": 2791
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 1948
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 1461
+    },
+    {
+      "name": "Matteo Cooke",
+      "score": 0,
+      "duration": 743
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": 0,
+      "duration": 715
     }
   ],
-  "updatedAt": "2026-11-02T19:16:44.784Z"
+  "updatedAt": "2026-11-02T20:04:03.827Z"
 }
