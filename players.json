@@ -6,40 +6,40 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Corentin Dupont",
-      "score": 0,
-      "duration": 3338
-    },
-    {
-      "name": "Tony Romano",
-      "score": 0,
-      "duration": 2971
-    },
-    {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 2791
+      "duration": 5238
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 1948
+      "duration": 4395
     },
     {
       "name": "Eugène Colonna [FLA]",
       "score": 0,
-      "duration": 1461
+      "duration": 3908
     },
     {
       "name": "Matteo Cooke",
       "score": 0,
-      "duration": 743
+      "duration": 3190
     },
     {
-      "name": "Scamé Jaks",
+      "name": "Francis Samous",
       "score": 0,
-      "duration": 715
+      "duration": 1861
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 1859
+    },
+    {
+      "name": "Samuel Cérébos",
+      "score": 0,
+      "duration": 11
     }
   ],
-  "updatedAt": "2026-11-02T20:04:03.827Z"
+  "updatedAt": "2026-11-02T20:44:50.984Z"
 }
