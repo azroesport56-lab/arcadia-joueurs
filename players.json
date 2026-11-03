@@ -6,35 +6,35 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 11291
-    },
-    {
       "name": "Rocco Gracia",
       "score": 0,
-      "duration": 9892
+      "duration": 14700
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 7261
+      "duration": 12069
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 7002
+      "duration": 11810
     },
     {
-      "name": "Corentin Dupont",
+      "name": "Mahdi Teller [Osiris]",
       "score": 0,
-      "duration": 6277
+      "duration": 3362
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 1156
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 1937
+      "duration": 1005
     }
   ],
-  "updatedAt": "2026-11-03T22:23:21.621Z"
+  "updatedAt": "2026-11-03T23:43:30.067Z"
 }
