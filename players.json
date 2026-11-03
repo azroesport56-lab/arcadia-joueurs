@@ -2,8 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 2,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-03T09:57:15.670Z"
+  "list": [
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 299
+    },
+    {
+      "name": "Nik Cooper [F.D.L.A]",
+      "score": 0,
+      "duration": 95
+    }
+  ],
+  "updatedAt": "2026-11-03T10:48:08.246Z"
 }
