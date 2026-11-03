@@ -2,44 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 7,
+  "players": 6,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 6406
+      "duration": 8842
     },
     {
       "name": "Rocco Gracia",
       "score": 0,
-      "duration": 5007
-    },
-    {
-      "name": "Bob Fosseur",
-      "score": 0,
-      "duration": 3941
+      "duration": 7443
     },
     {
       "name": "Matteo Cooke",
       "score": 0,
-      "duration": 2959
+      "duration": 5395
     },
     {
       "name": "Neox Novitchkov",
       "score": 0,
-      "duration": 2376
+      "duration": 4812
     },
     {
       "name": "Alex Novitchkov",
       "score": 0,
-      "duration": 2117
+      "duration": 4553
     },
     {
       "name": "Corentin Dupont",
       "score": 0,
-      "duration": 1392
+      "duration": 3828
     }
   ],
-  "updatedAt": "2026-11-03T21:01:56.866Z"
+  "updatedAt": "2026-11-03T21:42:32.839Z"
 }
