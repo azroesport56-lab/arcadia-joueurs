@@ -2,29 +2,39 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 6,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Julien Bronneau",
       "score": 0,
-      "duration": 1202
-    },
-    {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 993
+      "duration": 4228
     },
     {
       "name": "Alex Petrovich",
       "score": 0,
-      "duration": 839
+      "duration": 3865
     },
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 642
+      "duration": 3668
+    },
+    {
+      "name": "Rocco Gracia",
+      "score": 0,
+      "duration": 2269
+    },
+    {
+      "name": "Bob Fosseur",
+      "score": 0,
+      "duration": 1203
+    },
+    {
+      "name": "Matteo Cooke",
+      "score": 0,
+      "duration": 221
     }
   ],
-  "updatedAt": "2026-11-03T19:25:52.711Z"
+  "updatedAt": "2026-11-03T20:16:18.556Z"
 }
