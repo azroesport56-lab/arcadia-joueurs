@@ -2,19 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Michel Mastrich",
       "score": 0,
-      "duration": 2450
+      "duration": 5184
     },
     {
       "name": "Benoît Riddick",
       "score": 0,
-      "duration": 1408
+      "duration": 4142
+    },
+    {
+      "name": "Corentin Dupont",
+      "score": 0,
+      "duration": 2280
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 1399
+    },
+    {
+      "name": "Bob Fosseur",
+      "score": 0,
+      "duration": 43
     }
   ],
-  "updatedAt": "2026-11-04T19:54:15.698Z"
+  "updatedAt": "2026-11-04T20:39:49.704Z"
 }
