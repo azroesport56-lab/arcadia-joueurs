@@ -2,19 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 14609
-    },
-    {
-      "name": "Jacque Pain",
-      "score": -32,
-      "duration": 1713
-    }
-  ],
-  "updatedAt": "2026-11-04T06:42:24.824Z"
+  "list": [],
+  "updatedAt": "2026-11-04T07:57:25.876Z"
 }
