@@ -6,15 +6,15 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Thomas mosca [Arma RP]",
-      "score": 0,
-      "duration": 2000
-    },
-    {
       "name": "Harley White",
       "score": 0,
-      "duration": 987
+      "duration": 4539
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": -8,
+      "duration": 1425
     }
   ],
-  "updatedAt": "2026-11-04T13:39:37.904Z"
+  "updatedAt": "2026-11-04T14:38:49.503Z"
 }
