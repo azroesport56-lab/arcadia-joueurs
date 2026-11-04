@@ -2,19 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 7091
-    },
-    {
       "name": "Alden Brockwood",
       "score": 0,
-      "duration": 478
+      "duration": 3326
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 2643
+    },
+    {
+      "name": "Axel Polboy [MiamiBoyzz]",
+      "score": 0,
+      "duration": 2483
     }
   ],
-  "updatedAt": "2026-11-04T21:28:58.418Z"
+  "updatedAt": "2026-11-04T22:16:26.854Z"
 }
