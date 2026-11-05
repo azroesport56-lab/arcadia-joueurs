@@ -6,15 +6,15 @@
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Jacque Pain",
-      "score": -5,
-      "duration": 2343
-    },
-    {
       "name": "Sacha Walker",
       "score": 0,
-      "duration": 1534
+      "duration": 4536
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 491
     }
   ],
-  "updatedAt": "2026-11-05T21:33:54.949Z"
+  "updatedAt": "2026-11-05T22:23:57.162Z"
 }
