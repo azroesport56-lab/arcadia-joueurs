@@ -2,24 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 3,
+  "players": 1,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "Benoît Riddick",
-      "score": 0,
-      "duration": 3765
-    },
-    {
-      "name": "Thomas mosca [Arma RP]",
-      "score": -38,
-      "duration": 1714
-    },
-    {
       "name": "sky jhons",
       "score": 0,
-      "duration": 502
+      "duration": 3720
     }
   ],
-  "updatedAt": "2026-11-05T10:39:18.870Z"
+  "updatedAt": "2026-11-05T11:32:56.360Z"
 }
