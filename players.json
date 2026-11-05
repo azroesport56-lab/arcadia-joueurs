@@ -2,34 +2,49 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 5,
+  "players": 8,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 7697
+      "duration": 11550
     },
     {
       "name": "Corentin Dupont",
       "score": 0,
-      "duration": 3632
+      "duration": 7485
     },
     {
       "name": "Thomas mosca [Arma RP]",
-      "score": -19,
-      "duration": 1843
+      "score": -32,
+      "duration": 5695
     },
     {
       "name": "sky jhons",
       "score": 0,
-      "duration": 1664
+      "duration": 5516
     },
     {
       "name": "Jacque Pain",
+      "score": -5,
+      "duration": 4924
+    },
+    {
+      "name": "rico garcia [LOPEZ]",
       "score": 0,
-      "duration": 1071
+      "duration": 3263
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 1121
+    },
+    {
+      "name": "Benoît Riddick",
+      "score": 0,
+      "duration": 1042
     }
   ],
-  "updatedAt": "2026-11-05T15:36:04.315Z"
+  "updatedAt": "2026-11-05T16:40:16.964Z"
 }
