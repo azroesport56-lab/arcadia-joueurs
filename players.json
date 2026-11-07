@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-07T14:43:50.517Z"
+  "list": [
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 1303
+    }
+  ],
+  "updatedAt": "2026-11-07T15:19:35.166Z"
 }
