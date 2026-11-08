@@ -2,39 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 2,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 10655
+      "duration": 12747
     },
     {
       "name": "Brice Dupont [Arma RP]",
       "score": 0,
-      "duration": 10244
-    },
-    {
-      "name": "Yves Lerat",
-      "score": 0,
-      "duration": 7945
-    },
-    {
-      "name": "Marko Plantin",
-      "score": 0,
-      "duration": 7081
-    },
-    {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 6879
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 5010
+      "duration": 12335
     }
   ],
-  "updatedAt": "2026-11-08T22:04:58.378Z"
+  "updatedAt": "2026-11-08T22:39:49.851Z"
 }
