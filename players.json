@@ -2,14 +2,29 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 4,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 1868
+      "duration": 4409
+    },
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 1813
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 282
+    },
+    {
+      "name": "Alden Brockwood",
+      "score": 0,
+      "duration": 258
     }
   ],
-  "updatedAt": "2026-11-08T13:36:49.610Z"
+  "updatedAt": "2026-11-08T14:19:10.861Z"
 }
