@@ -2,39 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 12751
-    },
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 10155
+      "duration": 14904
     },
     {
       "name": "Harley White",
       "score": 0,
-      "duration": 5194
+      "duration": 7348
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 3780
-    },
-    {
-      "name": "rico garcia [LOPEZ]",
-      "score": 0,
-      "duration": 2116
-    },
-    {
-      "name": "Sacha Walker",
-      "score": 0,
-      "duration": 1154
+      "duration": 5933
     }
   ],
-  "updatedAt": "2026-11-08T16:38:12.793Z"
+  "updatedAt": "2026-11-08T17:14:05.944Z"
 }
