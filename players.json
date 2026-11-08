@@ -2,14 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 51
+      "duration": 2447
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 2036
+    },
+    {
+      "name": "Harley White",
+      "score": 0,
+      "duration": 1084
     }
   ],
-  "updatedAt": "2026-11-08T19:08:13.830Z"
+  "updatedAt": "2026-11-08T19:48:10.281Z"
 }
