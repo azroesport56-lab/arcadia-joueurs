@@ -2,29 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 4,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 10304
-    },
-    {
-      "name": "Thomas mosca [Arma RP]",
-      "score": 0,
-      "duration": 9603
+      "duration": 13637
     },
     {
       "name": "Sacha Walker",
       "score": 0,
-      "duration": 2459
+      "duration": 5791
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 1142
+      "duration": 4475
     }
   ],
-  "updatedAt": "2026-11-09T16:43:05.250Z"
+  "updatedAt": "2026-11-09T17:38:37.873Z"
 }
