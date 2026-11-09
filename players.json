@@ -2,44 +2,34 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 7,
+  "players": 5,
   "maxPlayers": 146,
   "list": [
     {
       "name": "Alan Walker",
       "score": 0,
-      "duration": 4657
+      "duration": 7744
     },
     {
       "name": "Williame Lerat",
       "score": 0,
-      "duration": 3798
+      "duration": 6885
     },
     {
       "name": "Yves Lerat",
       "score": 0,
-      "duration": 1576
+      "duration": 4662
     },
     {
       "name": "Bob Fosseur",
       "score": 0,
-      "duration": 1127
+      "duration": 4214
     },
     {
       "name": "Marko Plantin",
       "score": 0,
-      "duration": 882
-    },
-    {
-      "name": "Kuzma Zinaida",
-      "score": 0,
-      "duration": 351
-    },
-    {
-      "name": "Nik Cooper [F.D.L.A]",
-      "score": 0,
-      "duration": 339
+      "duration": 3969
     }
   ],
-  "updatedAt": "2026-11-09T20:21:45.599Z"
+  "updatedAt": "2026-11-09T21:13:12.094Z"
 }
