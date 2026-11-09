@@ -21,5 +21,7 @@
       "duration": 4475
     }
   ],
-  "updatedAt": "2026-11-09T17:38:37.873Z"
+  "updatedAt": "2026-11-09T17:38:37.873Z",
+  "error": "Serveur injoignable (timeout)",
+  "checkedAt": "2026-11-09T18:27:11.597Z"
 }
