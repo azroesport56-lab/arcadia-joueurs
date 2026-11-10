@@ -2,19 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 3,
   "maxPlayers": 146,
   "list": [
     {
       "name": "john pique [Arma RP]",
       "score": 0,
-      "duration": 3627
+      "duration": 6115
     },
     {
       "name": "Thomas mosca [Arma RP]",
       "score": 0,
-      "duration": 3549
+      "duration": 6037
+    },
+    {
+      "name": "Marko Plantin",
+      "score": 0,
+      "duration": 1798
     }
   ],
-  "updatedAt": "2026-11-10T20:08:39.086Z"
+  "updatedAt": "2026-11-10T20:50:06.943Z"
 }
