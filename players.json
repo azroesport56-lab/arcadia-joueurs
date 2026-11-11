@@ -2,14 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Marko Plantin",
-      "score": 0,
-      "duration": 2244
-    }
-  ],
-  "updatedAt": "2026-11-11T14:32:56.524Z"
+  "list": [],
+  "updatedAt": "2026-11-11T15:19:49.747Z"
 }
