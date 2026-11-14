@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-14T13:30:01.676Z"
+  "list": [
+    {
+      "name": "Paul Muller",
+      "score": 0,
+      "duration": 835
+    }
+  ],
+  "updatedAt": "2026-11-14T14:16:48.499Z"
 }
