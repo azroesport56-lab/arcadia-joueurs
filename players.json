@@ -2,49 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 8,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Scamé Jaks",
-      "score": 0,
-      "duration": 7295
-    },
-    {
-      "name": "Marko Plantin",
-      "score": 0,
-      "duration": 6358
-    },
-    {
-      "name": "Thomas mosca [Arma RP]",
-      "score": 0,
-      "duration": 5923
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": -1,
-      "duration": 5755
-    },
-    {
-      "name": "Myck Ride",
-      "score": 0,
-      "duration": 5534
-    },
-    {
-      "name": "rico garcia [LOPEZ]",
-      "score": 0,
-      "duration": 5490
-    },
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 5323
-    },
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 3084
-    }
-  ],
-  "updatedAt": "2026-11-16T21:54:05.749Z"
+  "list": [],
+  "updatedAt": "2026-11-16T22:36:44.639Z"
 }
