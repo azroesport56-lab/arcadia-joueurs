@@ -2,10 +2,19 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia3",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 2,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-16T02:52:53.274Z",
-  "error": "Serveur injoignable (timeout)",
-  "checkedAt": "2026-11-16T03:51:51.250Z"
+  "list": [
+    {
+      "name": "Alan Walker",
+      "score": 0,
+      "duration": 2217
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 2127
+    }
+  ],
+  "updatedAt": "2026-11-16T05:14:16.922Z"
 }
