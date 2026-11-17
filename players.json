@@ -2,8 +2,24 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 3,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-17T21:18:12.278Z"
+  "list": [
+    {
+      "name": "Pops Tantot",
+      "score": 0,
+      "duration": 2066
+    },
+    {
+      "name": "Gino Brigante",
+      "score": 0,
+      "duration": 558
+    },
+    {
+      "name": "Rocco Gracia",
+      "score": 0,
+      "duration": 264
+    }
+  ],
+  "updatedAt": "2026-11-17T22:13:42.044Z"
 }
