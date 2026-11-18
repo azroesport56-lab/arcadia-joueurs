@@ -2,19 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 1,
   "maxPlayers": 146,
   "list": [
     {
-      "name": "ryan wolf",
-      "score": 0,
-      "duration": 755
-    },
-    {
       "name": "Pops Tantot",
       "score": 0,
-      "duration": 633
+      "duration": 3554
     }
   ],
-  "updatedAt": "2026-11-18T13:54:04.094Z"
+  "updatedAt": "2026-11-18T14:42:45.053Z"
 }
