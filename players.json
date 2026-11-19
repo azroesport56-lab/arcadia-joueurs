@@ -2,19 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 2,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Michel Mastrich",
-      "score": 0,
-      "duration": 776
-    },
-    {
-      "name": "Pops Tantot",
-      "score": 0,
-      "duration": 610
-    }
-  ],
-  "updatedAt": "2026-11-19T22:12:28.721Z"
+  "list": [],
+  "updatedAt": "2026-11-19T22:58:05.765Z"
 }
