@@ -2,8 +2,14 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 1,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-19T03:37:14.482Z"
+  "list": [
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 1115
+    }
+  ],
+  "updatedAt": "2026-11-19T04:39:28.827Z"
 }
