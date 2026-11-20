@@ -5,5 +5,7 @@
   "players": 0,
   "maxPlayers": 146,
   "list": [],
-  "updatedAt": "2026-11-20T07:35:07.431Z"
+  "updatedAt": "2026-11-20T07:35:07.431Z",
+  "error": "Serveur injoignable (timeout)",
+  "checkedAt": "2026-11-20T16:20:59.918Z"
 }
