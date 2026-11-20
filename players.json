@@ -2,10 +2,74 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 0,
+  "players": 13,
   "maxPlayers": 146,
-  "list": [],
-  "updatedAt": "2026-11-20T07:35:07.431Z",
-  "error": "Serveur injoignable (timeout)",
-  "checkedAt": "2026-11-20T16:20:59.918Z"
+  "list": [
+    {
+      "name": "rico garcia [LOPEZ]",
+      "score": 0,
+      "duration": 10896
+    },
+    {
+      "name": "Michel Mastrich",
+      "score": 0,
+      "duration": 10756
+    },
+    {
+      "name": "Rocco Gracia",
+      "score": 0,
+      "duration": 10724
+    },
+    {
+      "name": "Brice Dupont [Arma RP]",
+      "score": 0,
+      "duration": 10617
+    },
+    {
+      "name": "Bob Fosseur",
+      "score": 0,
+      "duration": 10603
+    },
+    {
+      "name": "Thomas mosca [Arma RP]",
+      "score": 0,
+      "duration": 10504
+    },
+    {
+      "name": "sky jhons",
+      "score": 0,
+      "duration": 10496
+    },
+    {
+      "name": "Scamé Jaks",
+      "score": -1,
+      "duration": 10377
+    },
+    {
+      "name": "Yves Lerat",
+      "score": 0,
+      "duration": 10272
+    },
+    {
+      "name": "Eugène Colonna [FLA]",
+      "score": 0,
+      "duration": 10090
+    },
+    {
+      "name": "Alden Brockwood [BOUBOU]",
+      "score": 0,
+      "duration": 8914
+    },
+    {
+      "name": "John Woods",
+      "score": 0,
+      "duration": 7854
+    },
+    {
+      "name": "john pique [Arma RP]",
+      "score": 0,
+      "duration": 2930
+    }
+  ],
+  "updatedAt": "2026-11-20T22:42:45.148Z"
 }
