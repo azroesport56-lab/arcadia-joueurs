@@ -2,39 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 6,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Brice Dupont [Arma RP]",
-      "score": 0,
-      "duration": 14754
-    },
-    {
-      "name": "Rocco Gracia",
-      "score": 0,
-      "duration": 14377
-    },
-    {
-      "name": "Thomas mosca [Arma RP]",
-      "score": 0,
-      "duration": 12322
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": -5,
-      "duration": 11747
-    },
-    {
-      "name": "rico garcia [LOPEZ]",
-      "score": 0,
-      "duration": 9181
-    },
-    {
-      "name": "sky jhons",
-      "score": 0,
-      "duration": 7001
-    }
-  ],
-  "updatedAt": "2026-11-21T23:16:18.111Z"
+  "list": [],
+  "updatedAt": "2026-11-22T03:15:31.587Z"
 }
