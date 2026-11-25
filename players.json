@@ -2,64 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 11,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Alan Walker",
-      "score": 0,
-      "duration": 8543
-    },
-    {
-      "name": "ryan wolf",
-      "score": 0,
-      "duration": 8239
-    },
-    {
-      "name": "Eugène Colonna [sithari]",
-      "score": 0,
-      "duration": 7880
-    },
-    {
-      "name": "Scamé Jaks",
-      "score": -5,
-      "duration": 7406
-    },
-    {
-      "name": "Jacque Pain",
-      "score": 0,
-      "duration": 7145
-    },
-    {
-      "name": "John Woods",
-      "score": 0,
-      "duration": 5449
-    },
-    {
-      "name": "Alden Brockwood [GN]",
-      "score": 0,
-      "duration": 5404
-    },
-    {
-      "name": "Ryan Air",
-      "score": -5,
-      "duration": 3337
-    },
-    {
-      "name": "Stéfanne Delacour",
-      "score": 0,
-      "duration": 3239
-    },
-    {
-      "name": "Obito Uchiwa",
-      "score": 0,
-      "duration": 1239
-    },
-    {
-      "name": "Harley White",
-      "score": 0,
-      "duration": 437
-    }
-  ],
-  "updatedAt": "2026-11-24T21:31:24.097Z"
+  "list": [],
+  "updatedAt": "2026-11-25T04:31:46.087Z"
 }
