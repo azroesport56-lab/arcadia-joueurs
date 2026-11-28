@@ -2,14 +2,8 @@
   "name": "[FR] Arcadia - https://discord.gg/f5UAY5g65E",
   "map": "arcadia_lakeside",
   "mission": "Arcadia",
-  "players": 1,
+  "players": 0,
   "maxPlayers": 146,
-  "list": [
-    {
-      "name": "Harley White",
-      "score": 0,
-      "duration": 1434
-    }
-  ],
-  "updatedAt": "2026-11-27T16:31:45.124Z"
+  "list": [],
+  "updatedAt": "2026-11-28T00:12:22.011Z"
 }
